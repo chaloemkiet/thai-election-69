@@ -33,10 +33,11 @@ URLS = {
 # =========================================================
 # UTILITY FUNCTIONS
 # =========================================================
-def fetch_json(url: str) -> dict:
-    """Fetch JSON from URL."""
-    return requests.get(url).json()
+import json
 
+def fetch_local_json(path: str) -> dict:
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
 
 def clean_name(name: str) -> str:
     """Remove Thai prefixes from names."""
@@ -545,5 +546,6 @@ st.markdown("""
 """)
 
 st.divider()
+
 
 
