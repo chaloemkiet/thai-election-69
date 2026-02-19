@@ -122,7 +122,7 @@ df_cons_candidate = df_cons_candidate.merge(
 
 # ---------- Join party name ----------
 df_cons_candidate = df_cons_candidate.merge(
-    df_party[["party_id", "party_name"]],
+    df_party[["id", "name"]],
     on="party_id",
     how="left"
 )
@@ -283,4 +283,5 @@ st.markdown("""
 - 🔼 ENP สูง + 🔼 Margin สูง → หลายพรรคลงแข่ง แต่มีพรรคเด่น  
 - 🔽 ENP ต่ำ + 🔽 Margin ต่ำ → แข่งหลัก ๆ 2 พรรค สูสี
 """)
+
 
