@@ -115,7 +115,7 @@ def load_data():
 
 # ---------- Join candidate name ----------
 df_cons_candidate = df_cons_candidate.merge(
-    df_mp_candidate[["mp_app_id", "name"]],
+    df_mp_candidate[["mp_app_id", "mp_app_name"]],
     on="mp_app_id",
     how="left"
 )
@@ -283,3 +283,4 @@ st.markdown("""
 - 🔼 ENP สูง + 🔼 Margin สูง → หลายพรรคลงแข่ง แต่มีพรรคเด่น  
 - 🔽 ENP ต่ำ + 🔽 Margin ต่ำ → แข่งหลัก ๆ 2 พรรค สูสี
 """)
+
