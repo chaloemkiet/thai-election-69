@@ -1,0 +1,458 @@
+[
+    {
+      "id": "254",
+      "party_no": "1",
+      "name": "ไทยทรัพย์ทวี",
+      "abbr": "ททว.",
+      "color": "#f02d30",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ไทยทรัพย์ทวี.jpg"
+    },
+    {
+      "id": "185",
+      "party_no": "2",
+      "name": "เพื่อชาติไทย",
+      "abbr": "พ.ชต.ท.",
+      "color": "#724a34",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/เพื่อชาติไทย.jpg"
+    },
+    {
+      "id": "244",
+      "party_no": "3",
+      "name": "ใหม่",
+      "abbr": "ม",
+      "color": "#da3731",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ใหม่.jpg"
+    },
+    {
+      "id": "228",
+      "party_no": "4",
+      "name": "มิติใหม่",
+      "abbr": "มต.",
+      "color": "#abc29d",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/มิติใหม่.jpg"
+    },
+    {
+      "id": "250",
+      "party_no": "5",
+      "name": "รวมใจไทย",
+      "abbr": "ร.จ.ท.",
+      "color": "#eec49a",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/รวมใจไทย.jpg"
+    },
+    {
+      "id": "229",
+      "party_no": "6",
+      "name": "รวมไทยสร้างชาติ",
+      "abbr": "รทสช.",
+      "color": "#020C54",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/รวมไทยสร้างชาติ.jpg"
+    },
+    {
+      "id": "217",
+      "party_no": "7",
+      "name": "พลวัต",
+      "abbr": "พ.ว.",
+      "color": "#58bc38",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/พลวัต.jpg"
+    },
+    {
+      "id": "109",
+      "party_no": "8",
+      "name": "ประชาธิปไตยใหม่",
+      "abbr": "ปธม.",
+      "color": "#eb4138",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ประชาธิปไตยใหม่.jpg"
+    },
+    {
+      "id": "34",
+      "party_no": "9",
+      "name": "เพื่อไทย",
+      "abbr": "พท.",
+      "color": "#da3731",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/เพื่อไทย.jpg"
+    },
+    {
+      "id": "170",
+      "party_no": "10",
+      "name": "ทางเลือกใหม่",
+      "abbr": "ทลม.",
+      "color": "#026aec",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ทางเลือกใหม่.jpg"
+    },
+    {
+      "id": "173",
+      "party_no": "11",
+      "name": "เศรษฐกิจ",
+      "abbr": "ศก",
+      "color": "#f7c036",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/เศรษฐกิจ.jpg"
+    },
+    {
+      "id": "145",
+      "party_no": "12",
+      "name": "เสรีรวมไทย",
+      "abbr": "สร.",
+      "color": "#b49e31",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/เสรีรวมไทย.jpg"
+    },
+    {
+      "id": "255",
+      "party_no": "13",
+      "name": "รวมพลังประชาชน",
+      "abbr": "รพปช",
+      "color": "#2f368d",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/รวมพลังประชาชน.jpg"
+    },
+    {
+      "id": "242",
+      "party_no": "14",
+      "name": "ท้องที่ไทย",
+      "abbr": "ท.",
+      "color": "#9c9084",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ท้องที่ไทย.jpg"
+    },
+    {
+      "id": "56",
+      "party_no": "15",
+      "name": "อนาคตไทย",
+      "abbr": "อท.",
+      "color": "#cd1604",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/อนาคตไทย.jpg"
+    },
+    {
+      "id": "204",
+      "party_no": "16",
+      "name": "พลังเพื่อไทย",
+      "abbr": "พล.พท",
+      "color": "#8384aa",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/พลังเพื่อไทย.png"
+    },
+    {
+      "id": "237",
+      "party_no": "17",
+      "name": "ไทยชนะ",
+      "abbr": "ทช",
+      "color": "#ceb88a",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ไทยชนะ.jpg"
+    },
+    {
+      "id": "226",
+      "party_no": "18",
+      "name": "พลังสังคมใหม่",
+      "abbr": "พ.ส.ม.",
+      "color": "#2a3790",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/พลังสังคมใหม่.jpg"
+    },
+    {
+      "id": "76",
+      "party_no": "19",
+      "name": "สังคมประชาธิปไตยไทย",
+      "abbr": "ส.ป.ท.",
+      "color": "#d32524",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/สังคมประชาธิปไตยไทย.jpg"
+    },
+    {
+      "id": "224",
+      "party_no": "20",
+      "name": "ฟิวชัน",
+      "abbr": "ฟ.ช.",
+      "color": "#27734f",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ฟิวชัน.jpg"
+    },
+    {
+      "id": "238",
+      "party_no": "21",
+      "name": "ไทรวมพลัง",
+      "abbr": "ทร.",
+      "color": "#260570",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ไทรวมพลัง.jpg"
+    },
+    {
+      "id": "186",
+      "party_no": "22",
+      "name": "ก้าวอิสระ",
+      "abbr": "ก.อ.",
+      "color": "#6c589c",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ก้าวอิสระ.jpg"
+    },
+    {
+      "id": "184",
+      "party_no": "23",
+      "name": "ปวงชนไทย",
+      "abbr": "ปท",
+      "color": "#283a96",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ปวงชนไทย.jpg"
+    },
+    {
+      "id": "211",
+      "party_no": "24",
+      "name": "วิชชั่นใหม่",
+      "abbr": null,
+      "color": "#fb0102",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/วิชชั่นใหม่.jpg"
+    },
+    {
+      "id": "157",
+      "party_no": "25",
+      "name": "เพื่อชีวิตใหม่",
+      "abbr": "พชม.",
+      "color": "#0eafeb",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/เพื่อชีวิตใหม่.jpg"
+    },
+    {
+      "id": "189",
+      "party_no": "26",
+      "name": "คลองไทย",
+      "abbr": "คล.ท.",
+      "color": "#0764b2",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/คลองไทย.jpg"
+    },
+    {
+      "id": "1",
+      "party_no": "27",
+      "name": "ประชาธิปัตย์",
+      "abbr": "ปชป.",
+      "color": "#06aff3",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ประชาธิปัตย์.jpg"
+    },
+    {
+      "id": "246",
+      "party_no": "28",
+      "name": "ไทยก้าวหน้า",
+      "abbr": "ทกน.",
+      "color": "#b9bee3",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ไทยก้าวหน้า.jpg"
+    },
+    {
+      "id": "234",
+      "party_no": "29",
+      "name": "ไทยภักดี",
+      "abbr": "ทภด.",
+      "color": "#CBBA01",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ไทยภักดี.jpg"
+    },
+    {
+      "id": "245",
+      "party_no": "30",
+      "name": "แรงงานสร้างชาติ",
+      "abbr": "รสช.",
+      "color": "#633e7c",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/แรงงานสร้างชาติ.jpg"
+    },
+    {
+      "id": "2",
+      "party_no": "31",
+      "name": "ประชากรไทย",
+      "abbr": "ปชท",
+      "color": "#0f41ce",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ประชากรไทย.jpg"
+    },
+    {
+      "id": "118",
+      "party_no": "32",
+      "name": "ครูไทยเพื่อประชาชน",
+      "abbr": "รทบ.",
+      "color": "#175a38",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ครูไทยเพื่อประชาชน.jpg"
+    },
+    {
+      "id": "187",
+      "party_no": "33",
+      "name": "ประชาชาติ",
+      "abbr": "ปช.",
+      "color": "#a35f26",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ประชาชาติ.jpg"
+    },
+    {
+      "id": "174",
+      "party_no": "34",
+      "name": "สร้างอนาคตไทย",
+      "abbr": "สอท.",
+      "color": "#335daa",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/สร้างอนาคตไทย.jpg"
+    },
+    {
+      "id": "91",
+      "party_no": "35",
+      "name": "รักชาติ",
+      "abbr": "รช.",
+      "color": "#00695a",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/รักชาติ.jpg"
+    },
+    {
+      "id": "183",
+      "party_no": "36",
+      "name": "ไทยพร้อม",
+      "abbr": "พทพ",
+      "color": "#b7f2a5",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ไทยพร้อม.jpg"
+    },
+    {
+      "id": "63",
+      "party_no": "37",
+      "name": "ภูมิใจไทย",
+      "abbr": "ภท.",
+      "color": "#0c149c",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ภูมิใจไทย.jpg"
+    },
+    {
+      "id": "175",
+      "party_no": "38",
+      "name": "พลังธรรมใหม่",
+      "abbr": "พธม.",
+      "color": "#e9b54a",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/พลังธรรมใหม่.jpg"
+    },
+    {
+      "id": "206",
+      "party_no": "39",
+      "name": "กรีน",
+      "abbr": "กร",
+      "color": "#69c80a",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/กรีน.jpg"
+    },
+    {
+      "id": "178",
+      "party_no": "40",
+      "name": "ไทยธรรม",
+      "abbr": "ทธม.",
+      "color": "#ec5c2c",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ไทยธรรม.jpg"
+    },
+    {
+      "id": "188",
+      "party_no": "41",
+      "name": "แผ่นดินธรรม",
+      "abbr": "ผธ.",
+      "color": "#852e1c",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/แผ่นดินธรรม.jpg"
+    },
+    {
+      "id": "218",
+      "party_no": "42",
+      "name": "กล้าธรรม",
+      "abbr": "กธ",
+      "color": "#55CF6A",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/กล้าธรรม.jpg"
+    },
+    {
+      "id": "192",
+      "party_no": "43",
+      "name": "พลังประชารัฐ",
+      "abbr": "พปชร.",
+      "color": "#1f68dd",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/พลังประชารัฐ.jpg"
+    },
+    {
+      "id": "241",
+      "party_no": "44",
+      "name": "โอกาสใหม่",
+      "abbr": "อ",
+      "color": "#c21b06",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/โอกาสใหม่.png"
+    },
+    {
+      "id": "203",
+      "party_no": "45",
+      "name": "เป็นธรรม",
+      "abbr": "ปธ",
+      "color": "#b5a89b",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/เป็นธรรม.jpg"
+    },
+    {
+      "id": "129",
+      "party_no": "46",
+      "name": "ประชาชน",
+      "abbr": "ปชน",
+      "color": "#fd6512",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ประชาชน.jpg"
+    },
+    {
+      "id": "205",
+      "party_no": "47",
+      "name": "ประชาไทย",
+      "abbr": "ปรชท.",
+      "color": "#1d1376",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ประชาไทย.jpg"
+    },
+    {
+      "id": "227",
+      "party_no": "48",
+      "name": "ไทยสร้างไทย",
+      "abbr": "ทสท",
+      "color": "#003dff",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ไทยสร้างไทย.jpg"
+    },
+    {
+      "id": "133",
+      "party_no": "49",
+      "name": "ไทยก้าวใหม่",
+      "abbr": "ทกม.",
+      "color": "#f4ec53",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ไทยก้าวใหม่.jpg"
+    },
+    {
+      "id": "253",
+      "party_no": "50",
+      "name": "ประชาอาสาชาติ",
+      "abbr": "ปอช.",
+      "color": "#f1cf2e",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ประชาอาสาชาติ.jpg"
+    },
+    {
+      "id": "249",
+      "party_no": "51",
+      "name": "พร้อม",
+      "abbr": "พพ.",
+      "color": "#f90508",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/พร้อม.jpg"
+    },
+    {
+      "id": "22",
+      "party_no": "52",
+      "name": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "abbr": "พนท.",
+      "color": "#015696",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/เครือข่ายชาวนาแห่งประเทศไทย.png"
+    },
+    {
+      "id": "235",
+      "party_no": "53",
+      "name": "ไทยพิทักษ์ธรรม",
+      "abbr": "ทพธ",
+      "color": "#15308c",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ไทยพิทักษ์ธรรม.jpg"
+    },
+    {
+      "id": "13",
+      "party_no": "54",
+      "name": "ความหวังใหม่",
+      "abbr": "ควม.",
+      "color": "#e6b750",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ความหวังใหม่.jpg"
+    },
+    {
+      "id": "221",
+      "party_no": "55",
+      "name": "ไทยรวมไทย",
+      "abbr": "ทรวท.",
+      "color": "#8c8dd2",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/ไทยรวมไทย.jpg"
+    },
+    {
+      "id": "258",
+      "party_no": "56",
+      "name": "เพื่อบ้านเมือง",
+      "abbr": "พบม.",
+      "color": "#ffff00",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/เพื่อบ้านเมือง.jpg"
+    },
+    {
+      "id": "155",
+      "party_no": "57",
+      "name": "พลังไทยรักชาติ",
+      "abbr": "พทรช",
+      "color": "#54c04c",
+      "logo_url": "https://static-ectreport69.ect.go.th/data/parties/logos/พลังไทยรักชาติ.jpg"
+    }
+  ]

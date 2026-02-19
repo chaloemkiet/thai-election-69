@@ -1,0 +1,699 @@
+{
+    "total_registered_vote": 52922923,
+    "total_vote_stations": 101331,
+    "province": [
+      {
+        "province_id": "10",
+        "prov_id": "BKK",
+        "province": "กรุงเทพมหานคร",
+        "abbre_thai": "กทม",
+        "eng": "BKK",
+        "total_vote_stations": 6757,
+        "total_registered_vote": 4502458
+      },
+      {
+        "province_id": "11",
+        "prov_id": "SPK",
+        "province": "สมุทรปราการ",
+        "abbre_thai": "สป",
+        "eng": "SPK",
+        "total_vote_stations": 1771,
+        "total_registered_vote": 1126420
+      },
+      {
+        "province_id": "12",
+        "prov_id": "NBI",
+        "province": "นนทบุรี",
+        "abbre_thai": "นบ",
+        "eng": "NBI",
+        "total_vote_stations": 1559,
+        "total_registered_vote": 1094383
+      },
+      {
+        "province_id": "13",
+        "prov_id": "PTE",
+        "province": "ปทุมธานี",
+        "abbre_thai": "ปท",
+        "eng": "PTE",
+        "total_vote_stations": 1493,
+        "total_registered_vote": 1012760
+      },
+      {
+        "province_id": "14",
+        "prov_id": "AYA",
+        "province": "พระนครศรีอยุธยา",
+        "abbre_thai": "อย",
+        "eng": "AYA",
+        "total_vote_stations": 1160,
+        "total_registered_vote": 677848
+      },
+      {
+        "province_id": "15",
+        "prov_id": "ATG",
+        "province": "อ่างทอง",
+        "abbre_thai": "อท",
+        "eng": "ATG",
+        "total_vote_stations": 505,
+        "total_registered_vote": 224089
+      },
+      {
+        "province_id": "16",
+        "prov_id": "LRI",
+        "province": "ลพบุรี",
+        "abbre_thai": "ลบ",
+        "eng": "LRI",
+        "total_vote_stations": 1095,
+        "total_registered_vote": 596426
+      },
+      {
+        "province_id": "17",
+        "prov_id": "SBR",
+        "province": "สิงห์บุรี",
+        "abbre_thai": "สห",
+        "eng": "SBR",
+        "total_vote_stations": 333,
+        "total_registered_vote": 167173
+      },
+      {
+        "province_id": "18",
+        "prov_id": "CNT",
+        "province": "ชัยนาท",
+        "abbre_thai": "ชน",
+        "eng": "CNT",
+        "total_vote_stations": 516,
+        "total_registered_vote": 261579
+      },
+      {
+        "province_id": "19",
+        "prov_id": "SRI",
+        "province": "สระบุรี",
+        "abbre_thai": "สบ",
+        "eng": "SRI",
+        "total_vote_stations": 904,
+        "total_registered_vote": 518984
+      },
+      {
+        "province_id": "20",
+        "prov_id": "CBI",
+        "province": "ชลบุรี",
+        "abbre_thai": "ชบ",
+        "eng": "CBI",
+        "total_vote_stations": 1747,
+        "total_registered_vote": 1294267
+      },
+      {
+        "province_id": "21",
+        "prov_id": "RYG",
+        "province": "ระยอง",
+        "abbre_thai": "รย",
+        "eng": "RYG",
+        "total_vote_stations": 999,
+        "total_registered_vote": 621808
+      },
+      {
+        "province_id": "22",
+        "prov_id": "CTI",
+        "province": "จันทบุรี",
+        "abbre_thai": "จบ",
+        "eng": "CTI",
+        "total_vote_stations": 879,
+        "total_registered_vote": 432792
+      },
+      {
+        "province_id": "23",
+        "prov_id": "TRT",
+        "province": "ตราด",
+        "abbre_thai": "ตร",
+        "eng": "TRT",
+        "total_vote_stations": 347,
+        "total_registered_vote": 176920
+      },
+      {
+        "province_id": "24",
+        "prov_id": "CCO",
+        "province": "ฉะเชิงเทรา",
+        "abbre_thai": "ฉช",
+        "eng": "CCO",
+        "total_vote_stations": 1051,
+        "total_registered_vote": 591982
+      },
+      {
+        "province_id": "25",
+        "prov_id": "PRI",
+        "province": "ปราจีนบุรี",
+        "abbre_thai": "ปจ",
+        "eng": "PRI",
+        "total_vote_stations": 799,
+        "total_registered_vote": 403530
+      },
+      {
+        "province_id": "26",
+        "prov_id": "NYK",
+        "province": "นครนายก",
+        "abbre_thai": "นย",
+        "eng": "NYK",
+        "total_vote_stations": 465,
+        "total_registered_vote": 212999
+      },
+      {
+        "province_id": "27",
+        "prov_id": "SKW",
+        "province": "สระแก้ว",
+        "abbre_thai": "สก",
+        "eng": "SKW",
+        "total_vote_stations": 901,
+        "total_registered_vote": 443695
+      },
+      {
+        "province_id": "30",
+        "prov_id": "NMA",
+        "province": "นครราชสีมา",
+        "abbre_thai": "นม",
+        "eng": "NMA",
+        "total_vote_stations": 4621,
+        "total_registered_vote": 2145255
+      },
+      {
+        "province_id": "31",
+        "prov_id": "BRM",
+        "province": "บุรีรัมย์",
+        "abbre_thai": "บร",
+        "eng": "BRM",
+        "total_vote_stations": 2758,
+        "total_registered_vote": 1261622
+      },
+      {
+        "province_id": "32",
+        "prov_id": "SRN",
+        "province": "สุรินทร์",
+        "abbre_thai": "สร",
+        "eng": "SRN",
+        "total_vote_stations": 2283,
+        "total_registered_vote": 1096279
+      },
+      {
+        "province_id": "33",
+        "prov_id": "SSK",
+        "province": "ศรีสะเกษ",
+        "abbre_thai": "ศก",
+        "eng": "SSK",
+        "total_vote_stations": 2817,
+        "total_registered_vote": 1168696
+      },
+      {
+        "province_id": "34",
+        "prov_id": "UBN",
+        "province": "อุบลราชธานี",
+        "abbre_thai": "อบ",
+        "eng": "UBN",
+        "total_vote_stations": 3169,
+        "total_registered_vote": 1497799
+      },
+      {
+        "province_id": "35",
+        "prov_id": "YST",
+        "province": "ยโสธร",
+        "abbre_thai": "ยส",
+        "eng": "YST",
+        "total_vote_stations": 926,
+        "total_registered_vote": 432508
+      },
+      {
+        "province_id": "36",
+        "prov_id": "CPM",
+        "province": "ชัยภูมิ",
+        "abbre_thai": "ชย",
+        "eng": "CPM",
+        "total_vote_stations": 1975,
+        "total_registered_vote": 904844
+      },
+      {
+        "province_id": "37",
+        "prov_id": "ACR",
+        "province": "อำนาจเจริญ",
+        "abbre_thai": "อจ",
+        "eng": "ACR",
+        "total_vote_stations": 675,
+        "total_registered_vote": 302708
+      },
+      {
+        "province_id": "38",
+        "prov_id": "BKN",
+        "province": "บึงกาฬ",
+        "abbre_thai": "บก",
+        "eng": "BKN",
+        "total_vote_stations": 744,
+        "total_registered_vote": 332602
+      },
+      {
+        "province_id": "39",
+        "prov_id": "NBP",
+        "province": "หนองบัวลำภู",
+        "abbre_thai": "นภ",
+        "eng": "NBP",
+        "total_vote_stations": 806,
+        "total_registered_vote": 408642
+      },
+      {
+        "province_id": "40",
+        "prov_id": "KKN",
+        "province": "ขอนแก่น",
+        "abbre_thai": "ขก",
+        "eng": "KKN",
+        "total_vote_stations": 2798,
+        "total_registered_vote": 1458371
+      },
+      {
+        "province_id": "41",
+        "prov_id": "UDN",
+        "province": "อุดรธานี",
+        "abbre_thai": "อด",
+        "eng": "UDN",
+        "total_vote_stations": 2310,
+        "total_registered_vote": 1258728
+      },
+      {
+        "province_id": "42",
+        "prov_id": "LEI",
+        "province": "เลย",
+        "abbre_thai": "ลย",
+        "eng": "LEI",
+        "total_vote_stations": 1050,
+        "total_registered_vote": 508131
+      },
+      {
+        "province_id": "43",
+        "prov_id": "NKI",
+        "province": "หนองคาย",
+        "abbre_thai": "นค",
+        "eng": "NKI",
+        "total_vote_stations": 842,
+        "total_registered_vote": 413467
+      },
+      {
+        "province_id": "44",
+        "prov_id": "MKM",
+        "province": "มหาสารคาม",
+        "abbre_thai": "มค",
+        "eng": "MKM",
+        "total_vote_stations": 1797,
+        "total_registered_vote": 769508
+      },
+      {
+        "province_id": "45",
+        "prov_id": "RET",
+        "province": "ร้อยเอ็ด",
+        "abbre_thai": "รอ",
+        "eng": "RET",
+        "total_vote_stations": 2571,
+        "total_registered_vote": 1054374
+      },
+      {
+        "province_id": "46",
+        "prov_id": "KSN",
+        "province": "กาฬสินธุ์",
+        "abbre_thai": "กส",
+        "eng": "KSN",
+        "total_vote_stations": 1711,
+        "total_registered_vote": 791204
+      },
+      {
+        "province_id": "47",
+        "prov_id": "SNK",
+        "province": "สกลนคร",
+        "abbre_thai": "สน",
+        "eng": "SNK",
+        "total_vote_stations": 1724,
+        "total_registered_vote": 919997
+      },
+      {
+        "province_id": "48",
+        "prov_id": "NPM",
+        "province": "นครพนม",
+        "abbre_thai": "นพ",
+        "eng": "NPM",
+        "total_vote_stations": 1195,
+        "total_registered_vote": 573695
+      },
+      {
+        "province_id": "49",
+        "prov_id": "MDH",
+        "province": "มุกดาหาร",
+        "abbre_thai": "มห",
+        "eng": "MDH",
+        "total_vote_stations": 619,
+        "total_registered_vote": 280339
+      },
+      {
+        "province_id": "50",
+        "prov_id": "CMI",
+        "province": "เชียงใหม่",
+        "abbre_thai": "ชม",
+        "eng": "CMI",
+        "total_vote_stations": 2831,
+        "total_registered_vote": 1348261
+      },
+      {
+        "province_id": "51",
+        "prov_id": "LPN",
+        "province": "ลำพูน",
+        "abbre_thai": "ลพ",
+        "eng": "LPN",
+        "total_vote_stations": 708,
+        "total_registered_vote": 333891
+      },
+      {
+        "province_id": "52",
+        "prov_id": "LPG",
+        "province": "ลำปาง",
+        "abbre_thai": "ลป",
+        "eng": "LPG",
+        "total_vote_stations": 1254,
+        "total_registered_vote": 602277
+      },
+      {
+        "province_id": "53",
+        "prov_id": "UTT",
+        "province": "อุตรดิตถ์",
+        "abbre_thai": "อต",
+        "eng": "UTT",
+        "total_vote_stations": 777,
+        "total_registered_vote": 366697
+      },
+      {
+        "province_id": "54",
+        "prov_id": "PRE",
+        "province": "แพร่",
+        "abbre_thai": "พร",
+        "eng": "PRE",
+        "total_vote_stations": 799,
+        "total_registered_vote": 360150
+      },
+      {
+        "province_id": "55",
+        "prov_id": "NAN",
+        "province": "น่าน",
+        "abbre_thai": "นน",
+        "eng": "NAN",
+        "total_vote_stations": 954,
+        "total_registered_vote": 389276
+      },
+      {
+        "province_id": "56",
+        "prov_id": "PYO",
+        "province": "พะเยา",
+        "abbre_thai": "พย",
+        "eng": "PYO",
+        "total_vote_stations": 877,
+        "total_registered_vote": 383153
+      },
+      {
+        "province_id": "57",
+        "prov_id": "CRI",
+        "province": "เชียงราย",
+        "abbre_thai": "ชร",
+        "eng": "CRI",
+        "total_vote_stations": 2044,
+        "total_registered_vote": 948989
+      },
+      {
+        "province_id": "58",
+        "prov_id": "MSN",
+        "province": "แม่ฮ่องสอน",
+        "abbre_thai": "มส",
+        "eng": "MSN",
+        "total_vote_stations": 474,
+        "total_registered_vote": 185172
+      },
+      {
+        "province_id": "60",
+        "prov_id": "NSN",
+        "province": "นครสวรรค์",
+        "abbre_thai": "นว",
+        "eng": "NSN",
+        "total_vote_stations": 1655,
+        "total_registered_vote": 838251
+      },
+      {
+        "province_id": "61",
+        "prov_id": "UTI",
+        "province": "อุทัยธานี",
+        "abbre_thai": "อน",
+        "eng": "UTI",
+        "total_vote_stations": 653,
+        "total_registered_vote": 261841
+      },
+      {
+        "province_id": "62",
+        "prov_id": "KPT",
+        "province": "กำแพงเพชร",
+        "abbre_thai": "กพ",
+        "eng": "KPT",
+        "total_vote_stations": 1188,
+        "total_registered_vote": 569706
+      },
+      {
+        "province_id": "63",
+        "prov_id": "TAK",
+        "province": "ตาก",
+        "abbre_thai": "ตก",
+        "eng": "TAK",
+        "total_vote_stations": 710,
+        "total_registered_vote": 415314
+      },
+      {
+        "province_id": "64",
+        "prov_id": "STI",
+        "province": "สุโขทัย",
+        "abbre_thai": "สท",
+        "eng": "STI",
+        "total_vote_stations": 1002,
+        "total_registered_vote": 477497
+      },
+      {
+        "province_id": "65",
+        "prov_id": "PLK",
+        "province": "พิษณุโลก",
+        "abbre_thai": "พล",
+        "eng": "PLK",
+        "total_vote_stations": 1362,
+        "total_registered_vote": 690652
+      },
+      {
+        "province_id": "66",
+        "prov_id": "PCT",
+        "province": "พิจิตร",
+        "abbre_thai": "พจ",
+        "eng": "PCT",
+        "total_vote_stations": 1022,
+        "total_registered_vote": 427543
+      },
+      {
+        "province_id": "67",
+        "prov_id": "PNB",
+        "province": "เพชรบูรณ์",
+        "abbre_thai": "พช",
+        "eng": "PNB",
+        "total_vote_stations": 1731,
+        "total_registered_vote": 783341
+      },
+      {
+        "province_id": "70",
+        "prov_id": "RBR",
+        "province": "ราชบุรี",
+        "abbre_thai": "รบ",
+        "eng": "RBR",
+        "total_vote_stations": 1177,
+        "total_registered_vote": 691526
+      },
+      {
+        "province_id": "71",
+        "prov_id": "KRI",
+        "province": "กาญจนบุรี",
+        "abbre_thai": "กจ",
+        "eng": "KRI",
+        "total_vote_stations": 1098,
+        "total_registered_vote": 657286
+      },
+      {
+        "province_id": "72",
+        "prov_id": "SPB",
+        "province": "สุพรรณบุรี",
+        "abbre_thai": "สพ",
+        "eng": "SPB",
+        "total_vote_stations": 1287,
+        "total_registered_vote": 677735
+      },
+      {
+        "province_id": "73",
+        "prov_id": "NPT",
+        "province": "นครปฐม",
+        "abbre_thai": "นฐ",
+        "eng": "NPT",
+        "total_vote_stations": 1299,
+        "total_registered_vote": 756871
+      },
+      {
+        "province_id": "74",
+        "prov_id": "SKN",
+        "province": "สมุทรสาคร",
+        "abbre_thai": "สค",
+        "eng": "SKN",
+        "total_vote_stations": 674,
+        "total_registered_vote": 462724
+      },
+      {
+        "province_id": "75",
+        "prov_id": "SKM",
+        "province": "สมุทรสงคราม",
+        "abbre_thai": "สส",
+        "eng": "SKM",
+        "total_vote_stations": 268,
+        "total_registered_vote": 156265
+      },
+      {
+        "province_id": "76",
+        "prov_id": "PBI",
+        "province": "เพชรบุรี",
+        "abbre_thai": "พบ",
+        "eng": "PBI",
+        "total_vote_stations": 776,
+        "total_registered_vote": 396388
+      },
+      {
+        "province_id": "77",
+        "prov_id": "PKN",
+        "province": "ประจวบคีรีขันธ์",
+        "abbre_thai": "ปข",
+        "eng": "PKN",
+        "total_vote_stations": 741,
+        "total_registered_vote": 438184
+      },
+      {
+        "province_id": "80",
+        "prov_id": "NST",
+        "province": "นครศรีธรรมราช",
+        "abbre_thai": "นศ",
+        "eng": "NST",
+        "total_vote_stations": 2282,
+        "total_registered_vote": 1231806
+      },
+      {
+        "province_id": "81",
+        "prov_id": "KBI",
+        "province": "กระบี่",
+        "abbre_thai": "กบ",
+        "eng": "KBI",
+        "total_vote_stations": 656,
+        "total_registered_vote": 370578
+      },
+      {
+        "province_id": "82",
+        "prov_id": "PNA",
+        "province": "พังงา",
+        "abbre_thai": "พง",
+        "eng": "PNA",
+        "total_vote_stations": 396,
+        "total_registered_vote": 211116
+      },
+      {
+        "province_id": "83",
+        "prov_id": "PKT",
+        "province": "ภูเก็ต",
+        "abbre_thai": "ภก",
+        "eng": "PKT",
+        "total_vote_stations": 470,
+        "total_registered_vote": 330148
+      },
+      {
+        "province_id": "84",
+        "prov_id": "SNI",
+        "province": "สุราษฎร์ธานี",
+        "abbre_thai": "สฎ",
+        "eng": "SNI",
+        "total_vote_stations": 1521,
+        "total_registered_vote": 847406
+      },
+      {
+        "province_id": "85",
+        "prov_id": "RNG",
+        "province": "ระนอง",
+        "abbre_thai": "รน",
+        "eng": "RNG",
+        "total_vote_stations": 246,
+        "total_registered_vote": 143314
+      },
+      {
+        "province_id": "86",
+        "prov_id": "CPN",
+        "province": "ชุมพร",
+        "abbre_thai": "ชพ",
+        "eng": "CPN",
+        "total_vote_stations": 823,
+        "total_registered_vote": 409631
+      },
+      {
+        "province_id": "90",
+        "prov_id": "SKA",
+        "province": "สงขลา",
+        "abbre_thai": "สข",
+        "eng": "SKA",
+        "total_vote_stations": 1943,
+        "total_registered_vote": 1122947
+      },
+      {
+        "province_id": "91",
+        "prov_id": "STN",
+        "province": "สตูล",
+        "abbre_thai": "สต",
+        "eng": "STN",
+        "total_vote_stations": 436,
+        "total_registered_vote": 246426
+      },
+      {
+        "province_id": "92",
+        "prov_id": "TRG",
+        "province": "ตรัง",
+        "abbre_thai": "ตง",
+        "eng": "TRG",
+        "total_vote_stations": 943,
+        "total_registered_vote": 510403
+      },
+      {
+        "province_id": "93",
+        "prov_id": "PLG",
+        "province": "พัทลุง",
+        "abbre_thai": "พท",
+        "eng": "PLG",
+        "total_vote_stations": 806,
+        "total_registered_vote": 422693
+      },
+      {
+        "province_id": "94",
+        "prov_id": "PTN",
+        "province": "ปัตตานี",
+        "abbre_thai": "ปน",
+        "eng": "PTN",
+        "total_vote_stations": 982,
+        "total_registered_vote": 525674
+      },
+      {
+        "province_id": "95",
+        "prov_id": "YLA",
+        "province": "ยะลา",
+        "abbre_thai": "ยล",
+        "eng": "YLA",
+        "total_vote_stations": 708,
+        "total_registered_vote": 395865
+      },
+      {
+        "province_id": "96",
+        "prov_id": "NWT",
+        "province": "นราธิวาส",
+        "abbre_thai": "นธ",
+        "eng": "NWT",
+        "total_vote_stations": 1086,
+        "total_registered_vote": 597044
+      }
+    ]
+  }
