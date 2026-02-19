@@ -57,13 +57,14 @@ def load_data():
     # -------------------------
     # Fetch Raw JSON
     # -------------------------
-    province_json = fetch_json(URLS["info_province"])
-    constituency_json = fetch_json(URLS["info_constituency"])
-    party_json = fetch_json(URLS["info_party_overview"])
-    mp_candidate_json = fetch_json(URLS["info_mp_candidate"])
-    party_candidate_json = fetch_json(URLS["info_party_candidate"])
-    stats_cons_json = fetch_json(URLS["stats_cons"])
-    stats_party_json = fetch_json(URLS["stats_party"])
+    province_json = fetch_local_json("data/info_province.json")
+    constituency_json = fetch_local_json("data/info_constituency.json")
+    party_json = fetch_local_json("data/info_party_overview.json")
+    mp_candidate_json = fetch_local_json("data/info_mp_candidate.json")
+    party_candidate_json = fetch_local_json("data/info_party_candidate.json")
+    stats_cons_json = fetch_local_json("data/stats_cons.json")
+    stats_party_json = fetch_local_json("data/stats_party.json")
+
 
     # -------------------------
     # Dimension Tables
@@ -546,6 +547,7 @@ st.markdown("""
 """)
 
 st.divider()
+
 
 
 
