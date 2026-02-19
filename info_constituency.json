@@ -1,0 +1,4764 @@
+[
+    {
+      "cons_id": "BKK_0",
+      "cons_no": 0,
+      "prov_id": "BKK",
+      "total_vote_stations": 95,
+      "registered_vote": null
+    },
+    {
+      "cons_id": "BKK_1",
+      "cons_no": 1,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตพระนคร",
+        "เขตดุสิต (ยกเว้นถนนนครไชยศรี)",
+        "เขตบางรัก",
+        "เขตป้อมปราบศัตรูพ่าย",
+        "เขตสัมพันธวงศ์"
+      ],
+      "total_vote_stations": 239,
+      "registered_vote": 130423
+    },
+    {
+      "cons_id": "BKK_2",
+      "cons_no": 2,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตปทุมวัน",
+        "เขตสาทร",
+        "เขตราชเทวี"
+      ],
+      "total_vote_stations": 232,
+      "registered_vote": 136481
+    },
+    {
+      "cons_id": "BKK_3",
+      "cons_no": 3,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตยานนาวา",
+        "เขตบางคอแหลม"
+      ],
+      "total_vote_stations": 217,
+      "registered_vote": 122578
+    },
+    {
+      "cons_id": "BKK_4",
+      "cons_no": 4,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตคลองเตย",
+        "เขตวัฒนา"
+      ],
+      "total_vote_stations": 197,
+      "registered_vote": 129453
+    },
+    {
+      "cons_id": "BKK_5",
+      "cons_no": 5,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตห้วยขวาง",
+        "เขตวังทองหลาง (ยกเว้นคลองเจ้าคุณสิงห์)"
+      ],
+      "total_vote_stations": 217,
+      "registered_vote": 134016
+    },
+    {
+      "cons_id": "BKK_6",
+      "cons_no": 6,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตพญาไท",
+        "เขตดินแดง"
+      ],
+      "total_vote_stations": 220,
+      "registered_vote": 143144
+    },
+    {
+      "cons_id": "BKK_7",
+      "cons_no": 7,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตดุสิต (เฉพาะถนนนครไชยศรี)",
+        "เขตบางซื่อ"
+      ],
+      "total_vote_stations": 212,
+      "registered_vote": 138276
+    },
+    {
+      "cons_id": "BKK_8",
+      "cons_no": 8,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตจตุจักร (ยกเว้นเสนานิคม จันทรเกษม)",
+        "เขตหลักสี่ (ยกเว้นตลาดบางเขน)"
+      ],
+      "total_vote_stations": 204,
+      "registered_vote": 144067
+    },
+    {
+      "cons_id": "BKK_9",
+      "cons_no": 9,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตบางเขน (ยกเว้นท่าแร้ง)",
+        "เขตจตุจักร (เฉพาะเสนานิคม จันทรเกษม)",
+        "เขตหลักสี่ (ยกเว้นทุ่งสองห้อง)"
+      ],
+      "total_vote_stations": 199,
+      "registered_vote": 144296
+    },
+    {
+      "cons_id": "BKK_10",
+      "cons_no": 10,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตดอนเมือง"
+      ],
+      "total_vote_stations": 188,
+      "registered_vote": 138687
+    },
+    {
+      "cons_id": "BKK_11",
+      "cons_no": 11,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตสายไหม (ยกเว้นออเงิน)"
+      ],
+      "total_vote_stations": 195,
+      "registered_vote": 137319
+    },
+    {
+      "cons_id": "BKK_12",
+      "cons_no": 12,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตบางเขน (ยกเว้นอนุสาวรีย์)",
+        "เขตลาดพร้าว (ยกเว้นลาดพร้าว)",
+        "เขตสายไหม (เฉพาะออเงิน)"
+      ],
+      "total_vote_stations": 191,
+      "registered_vote": 143148
+    },
+    {
+      "cons_id": "BKK_13",
+      "cons_no": 13,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตบึงกุ่ม (ยกเว้นคลองกุ่ม)",
+        "เขตลาดพร้าว (ยกเว้นจรเข้บัว)"
+      ],
+      "total_vote_stations": 193,
+      "registered_vote": 131707
+    },
+    {
+      "cons_id": "BKK_14",
+      "cons_no": 14,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตบางกะปิ",
+        "เขตวังทองหลาง (เฉพาะคลองเจ้าคุณสิงห์)"
+      ],
+      "total_vote_stations": 197,
+      "registered_vote": 140341
+    },
+    {
+      "cons_id": "BKK_15",
+      "cons_no": 15,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตบึงกุ่ม (เฉพาะคลองกุ่ม)",
+        "เขตคันนายาว"
+      ],
+      "total_vote_stations": 185,
+      "registered_vote": 127758
+    },
+    {
+      "cons_id": "BKK_16",
+      "cons_no": 16,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตคลองสามวา (ยกเว้นสามวาตะวันออก ทรายกองดินใต้)"
+      ],
+      "total_vote_stations": 179,
+      "registered_vote": 138261
+    },
+    {
+      "cons_id": "BKK_17",
+      "cons_no": 17,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตหนองจอก (ยกเว้นโคกแฝด ลำผักชี ลำต้อยติ่ง)",
+        "เขตคลองสามวา (เฉพาะสามวาตะวันออก ทรายกองดินใต้)"
+      ],
+      "total_vote_stations": 177,
+      "registered_vote": 120704
+    },
+    {
+      "cons_id": "BKK_18",
+      "cons_no": 18,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตหนองจอก (เฉพาะโคกแฝด ลำผักชี ลำต้อยติ่ง)",
+        "เขตมีนบุรี (ยกเว้นมีนบุรี)",
+        "เขตลาดกระบัง (เฉพาะลำปลาทิว)"
+      ],
+      "total_vote_stations": 170,
+      "registered_vote": 122857
+    },
+    {
+      "cons_id": "BKK_19",
+      "cons_no": 19,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตมีนบุรี (ยกเว้นแสนแสบ)",
+        "เขตสะพานสูง (ยกเว้นทับช้าง)"
+      ],
+      "total_vote_stations": 189,
+      "registered_vote": 135594
+    },
+    {
+      "cons_id": "BKK_20",
+      "cons_no": 20,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตลาดกระบัง (ยกเว้นลำปลาทิว)"
+      ],
+      "total_vote_stations": 170,
+      "registered_vote": 126504
+    },
+    {
+      "cons_id": "BKK_21",
+      "cons_no": 21,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตประเวศ (ยกเว้นหนองบอน)",
+        "เขตสะพานสูง (เฉพาะทับช้าง)"
+      ],
+      "total_vote_stations": 183,
+      "registered_vote": 136677
+    },
+    {
+      "cons_id": "BKK_22",
+      "cons_no": 22,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตประเวศ (เฉพาะหนองบอน)",
+        "เขตสวนหลวง"
+      ],
+      "total_vote_stations": 203,
+      "registered_vote": 133669
+    },
+    {
+      "cons_id": "BKK_23",
+      "cons_no": 23,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตพระโขนง",
+        "เขตบางนา"
+      ],
+      "total_vote_stations": 232,
+      "registered_vote": 144136
+    },
+    {
+      "cons_id": "BKK_24",
+      "cons_no": 24,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตธนบุรี (ยกเว้นวัดกัลยาณ์ หิรัญรูจี บางยี่เรือ)",
+        "เขตคลองสาน",
+        "เขตราษฎร์บูรณะ (ยกเว้นราษฎร์บูรณะ)"
+      ],
+      "total_vote_stations": 233,
+      "registered_vote": 142161
+    },
+    {
+      "cons_id": "BKK_25",
+      "cons_no": 25,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตราษฎร์บูรณะ (ยกเว้นบางปะกอก)",
+        "เขตทุ่งครุ"
+      ],
+      "total_vote_stations": 174,
+      "registered_vote": 126847
+    },
+    {
+      "cons_id": "BKK_26",
+      "cons_no": 26,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตบางขุนเทียน (ยกเว้นแสมดำ)",
+        "เขตจอมทอง (ยกเว้นบางขุนเทียน)"
+      ],
+      "total_vote_stations": 208,
+      "registered_vote": 139473
+    },
+    {
+      "cons_id": "BKK_27",
+      "cons_no": 27,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตบางขุนเทียน (ยกเว้นท่าข้าม)",
+        "เขตบางบอน (ยกเว้นบางบอนเหนือ คลองบางพราน)"
+      ],
+      "total_vote_stations": 176,
+      "registered_vote": 134519
+    },
+    {
+      "cons_id": "BKK_28",
+      "cons_no": 28,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตหนองแขม (ยกเว้นหนองค้างพลู)",
+        "เขตจอมทอง (เฉพาะบางขุนเทียน)",
+        "เขตบางบอน (ยกเว้นบางบอนใต้ คลองบางบอน)"
+      ],
+      "total_vote_stations": 191,
+      "registered_vote": 139847
+    },
+    {
+      "cons_id": "BKK_29",
+      "cons_no": 29,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตหนองแขม (ยกเว้นหนองแขม)",
+        "เขตบางแค (ยกเว้นบางแค หลักสอง)"
+      ],
+      "total_vote_stations": 199,
+      "registered_vote": 144498
+    },
+    {
+      "cons_id": "PTN_2",
+      "cons_no": 2,
+      "prov_id": "PTN",
+      "zone": [
+        "อำเภอโคกโพธิ์",
+        "อำเภอหนองจิก"
+      ],
+      "total_vote_stations": 215,
+      "registered_vote": 110681
+    },
+    {
+      "cons_id": "BKK_30",
+      "cons_no": 30,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตภาษีเจริญ (เฉพาะบางหว้า บางด้วน คลองขวาง)",
+        "เขตบางแค (ยกเว้นบางแคเหนือ บางไผ่)"
+      ],
+      "total_vote_stations": 194,
+      "registered_vote": 143904
+    },
+    {
+      "cons_id": "BKK_31",
+      "cons_no": 31,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตตลิ่งชัน (ยกเว้นบางเชือกหนัง)",
+        "เขตทวีวัฒนา"
+      ],
+      "total_vote_stations": 241,
+      "registered_vote": 143811
+    },
+    {
+      "cons_id": "BKK_32",
+      "cons_no": 32,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตธนบุรี (เฉพาะวัดกัลยาณ์ หิรัญรูจี บางยี่เรือ)",
+        "เขตบางกอกใหญ่",
+        "เขตตลิ่งชัน (เฉพาะบางเชือกหนัง)",
+        "เขตบางกอกน้อย (เฉพาะศิริราช)",
+        "เขตภาษีเจริญ (ยกเว้นบางหว้า บางด้วน คลองขวาง)"
+      ],
+      "total_vote_stations": 228,
+      "registered_vote": 139079
+    },
+    {
+      "cons_id": "BKK_33",
+      "cons_no": 33,
+      "prov_id": "BKK",
+      "zone": [
+        "เขตบางกอกน้อย (ยกเว้นศิริราช)",
+        "เขตบางพลัด"
+      ],
+      "total_vote_stations": 229,
+      "registered_vote": 148223
+    },
+    {
+      "cons_id": "SPK_1",
+      "cons_no": 1,
+      "prov_id": "SPK",
+      "zone": [
+        "อำเภอเมืองสมุทรปราการ (เฉพาะบางโปรง บางด้วน บางเมือง ท้ายบ้าน ปากน้ำ)"
+      ],
+      "total_vote_stations": 208,
+      "registered_vote": 130808
+    },
+    {
+      "cons_id": "SPK_2",
+      "cons_no": 2,
+      "prov_id": "SPK",
+      "zone": [
+        "อำเภอเมืองสมุทรปราการ (เฉพาะแพรกษา บางปูใหม่ บางปู ท้ายบ้านใหม่)"
+      ],
+      "total_vote_stations": 201,
+      "registered_vote": 129020
+    },
+    {
+      "cons_id": "SPK_3",
+      "cons_no": 3,
+      "prov_id": "SPK",
+      "zone": [
+        "อำเภอเมืองสมุทรปราการ (เฉพาะเทพารักษ์ บางเมืองใหม่ สำโรงเหนือ)"
+      ],
+      "total_vote_stations": 211,
+      "registered_vote": 141171
+    },
+    {
+      "cons_id": "SPK_4",
+      "cons_no": 4,
+      "prov_id": "SPK",
+      "zone": [
+        "อำเภอบางพลี (เฉพาะบางพลีใหญ่ บางแก้ว)"
+      ],
+      "total_vote_stations": 179,
+      "registered_vote": 136475
+    },
+    {
+      "cons_id": "SPK_5",
+      "cons_no": 5,
+      "prov_id": "SPK",
+      "zone": [
+        "อำเภอเมืองสมุทรปราการ (เฉพาะแพรกษาใหม่)",
+        "อำเภอบางพลี (ยกเว้นบางพลีใหญ่ บางแก้ว)",
+        "อำเภอบางเสาธง (เฉพาะศีรษะจรเข้น้อย)"
+      ],
+      "total_vote_stations": 230,
+      "registered_vote": 158700
+    },
+    {
+      "cons_id": "SPK_6",
+      "cons_no": 6,
+      "prov_id": "SPK",
+      "zone": [
+        "อำเภอพระประแดง (ยกเว้นบางจาก)"
+      ],
+      "total_vote_stations": 261,
+      "registered_vote": 129989
+    },
+    {
+      "cons_id": "SPK_7",
+      "cons_no": 7,
+      "prov_id": "SPK",
+      "zone": [
+        "อำเภอพระสมุทรเจดีย์",
+        "อำเภอพระประแดง (เฉพาะบางจาก)"
+      ],
+      "total_vote_stations": 229,
+      "registered_vote": 149428
+    },
+    {
+      "cons_id": "SPK_8",
+      "cons_no": 8,
+      "prov_id": "SPK",
+      "zone": [
+        "อำเภอบางบ่อ",
+        "อำเภอบางเสาธง (ยกเว้นศีรษะจรเข้น้อย)"
+      ],
+      "total_vote_stations": 252,
+      "registered_vote": 150829
+    },
+    {
+      "cons_id": "NBI_1",
+      "cons_no": 1,
+      "prov_id": "NBI",
+      "zone": [
+        "อำเภอเมืองนนทบุรี (เฉพาะบางเขน บางกระสอ ท่าทราย)"
+      ],
+      "total_vote_stations": 176,
+      "registered_vote": 140032
+    },
+    {
+      "cons_id": "NBI_2",
+      "cons_no": 2,
+      "prov_id": "NBI",
+      "zone": [
+        "อำเภอเมืองนนทบุรี (ยกเว้นบางไผ่ ไทรม้า บางเขน บางกระสอ ท่าทราย)"
+      ],
+      "total_vote_stations": 175,
+      "registered_vote": 124608
+    },
+    {
+      "cons_id": "NBI_3",
+      "cons_no": 3,
+      "prov_id": "NBI",
+      "zone": [
+        "อำเภอเมืองนนทบุรี (เฉพาะบางไผ่)",
+        "อำเภอบางกรวย"
+      ],
+      "total_vote_stations": 205,
+      "registered_vote": 140981
+    },
+    {
+      "cons_id": "NBI_4",
+      "cons_no": 4,
+      "prov_id": "NBI",
+      "zone": [
+        "อำเภอปากเกร็ด (เฉพาะบางตลาด บ้านใหม่ บางพูด คลองเกลือ)"
+      ],
+      "total_vote_stations": 177,
+      "registered_vote": 127356
+    },
+    {
+      "cons_id": "NBI_5",
+      "cons_no": 5,
+      "prov_id": "NBI",
+      "zone": [
+        "อำเภอบางบัวทอง (เฉพาะละหาร ลำโพ)",
+        "อำเภอปากเกร็ด (ยกเว้นบางตลาด บ้านใหม่ บางพูด คลองเกลือ)",
+        "อำเภอเมืองนนทบุรี (เฉพาะไทรม้า)"
+      ],
+      "total_vote_stations": 198,
+      "registered_vote": 137859
+    },
+    {
+      "cons_id": "NBI_6",
+      "cons_no": 6,
+      "prov_id": "NBI",
+      "zone": [
+        "อำเภอบางใหญ่"
+      ],
+      "total_vote_stations": 213,
+      "registered_vote": 144086
+    },
+    {
+      "cons_id": "NBI_7",
+      "cons_no": 7,
+      "prov_id": "NBI",
+      "zone": [
+        "อำเภอบางบัวทอง (เฉพาะบางบัวทอง พิมลราช โสนลอย)",
+        "อำเภอไทรน้อย (เฉพาะไทรน้อย คลองขวาง)"
+      ],
+      "total_vote_stations": 210,
+      "registered_vote": 142478
+    },
+    {
+      "cons_id": "NBI_8",
+      "cons_no": 8,
+      "prov_id": "NBI",
+      "zone": [
+        "อำเภอบางบัวทอง (เฉพาะบางรักใหญ่ บางรักพัฒนา บางคูรัด)",
+        "อำเภอไทรน้อย (ยกเว้นไทรน้อย คลองขวาง)"
+      ],
+      "total_vote_stations": 205,
+      "registered_vote": 136983
+    },
+    {
+      "cons_id": "PTE_1",
+      "cons_no": 1,
+      "prov_id": "PTE",
+      "zone": [
+        "อำเภอเมืองปทุมธานี (เฉพาะบ้านฉาง บางขะแยง บางหลวง บางเดื่อ บางคูวัด)",
+        "อำเภอลาดหลุมแก้ว"
+      ],
+      "total_vote_stations": 202,
+      "registered_vote": 130700
+    },
+    {
+      "cons_id": "PTE_2",
+      "cons_no": 2,
+      "prov_id": "PTE",
+      "zone": [
+        "อำเภอเมืองปทุมธานี (ยกเว้นบ้านใหม่ บ้านฉาง บางขะแยง บางหลวง บางเดื่อ หลักหก บางคูวัด)",
+        "อำเภอสามโคก"
+      ],
+      "total_vote_stations": 195,
+      "registered_vote": 128901
+    },
+    {
+      "cons_id": "PTE_3",
+      "cons_no": 3,
+      "prov_id": "PTE",
+      "zone": [
+        "อำเภอคลองหลวง (เฉพาะคลองสาม คลองหนึ่ง คลองสอง)"
+      ],
+      "total_vote_stations": 180,
+      "registered_vote": 131743
+    },
+    {
+      "cons_id": "PTE_4",
+      "cons_no": 4,
+      "prov_id": "PTE",
+      "zone": [
+        "อำเภอคลองหลวง (เฉพาะคลองหนึ่ง คลองสอง)",
+        "อำเภอธัญบุรี (เฉพาะประชาธิปัตย์)"
+      ],
+      "total_vote_stations": 178,
+      "registered_vote": 132037
+    },
+    {
+      "cons_id": "PTE_5",
+      "cons_no": 5,
+      "prov_id": "PTE",
+      "zone": [
+        "อำเภอเมืองปทุมธานี (เฉพาะบ้านใหม่ หลักหก)",
+        "อำเภอลำลูกกา (เฉพาะคูคต)"
+      ],
+      "total_vote_stations": 212,
+      "registered_vote": 122740
+    },
+    {
+      "cons_id": "PTE_6",
+      "cons_no": 6,
+      "prov_id": "PTE",
+      "zone": [
+        "อำเภอลำลูกกา (เฉพาะบึงคำพร้อย ลาดสวาย)",
+        "อำเภอธัญบุรี (เฉพาะบึงยี่โถ)"
+      ],
+      "total_vote_stations": 153,
+      "registered_vote": 122393
+    },
+    {
+      "cons_id": "PTE_7",
+      "cons_no": 7,
+      "prov_id": "PTE",
+      "zone": [
+        "อำเภอคลองหลวง (ยกเว้นคลองสาม คลองหนึ่ง คลองสอง)",
+        "อำเภอหนองเสือ (เฉพาะบึงบอน บึงชำอ้อ)",
+        "อำเภอธัญบุรี (เฉพาะรังสิต ลำผักกูด)"
+      ],
+      "total_vote_stations": 186,
+      "registered_vote": 121843
+    },
+    {
+      "cons_id": "PTE_8",
+      "cons_no": 8,
+      "prov_id": "PTE",
+      "zone": [
+        "อำเภอหนองเสือ (ยกเว้นบึงบอน บึงชำอ้อ)",
+        "อำเภอลำลูกกา (ยกเว้นลาดสวาย คูคต)",
+        "อำเภอธัญบุรี (เฉพาะบึงสนั่น บึงน้ำรักษ์)"
+      ],
+      "total_vote_stations": 187,
+      "registered_vote": 122403
+    },
+    {
+      "cons_id": "AYA_1",
+      "cons_no": 1,
+      "prov_id": "AYA",
+      "zone": [
+        "อำเภอพระนครศรีอยุธยา",
+        "อำเภอบางบาล"
+      ],
+      "total_vote_stations": 239,
+      "registered_vote": 140188
+    },
+    {
+      "cons_id": "AYA_2",
+      "cons_no": 2,
+      "prov_id": "AYA",
+      "zone": [
+        "อำเภอท่าเรือ",
+        "อำเภอนครหลวง",
+        "อำเภอบางปะหัน",
+        "อำเภอมหาราช",
+        "อำเภอบ้านแพรก"
+      ],
+      "total_vote_stations": 234,
+      "registered_vote": 128589
+    },
+    {
+      "cons_id": "AYA_3",
+      "cons_no": 3,
+      "prov_id": "AYA",
+      "zone": [
+        "อำเภอภาชี",
+        "อำเภอวังน้อย",
+        "อำเภออุทัย"
+      ],
+      "total_vote_stations": 217,
+      "registered_vote": 136493
+    },
+    {
+      "cons_id": "AYA_4",
+      "cons_no": 4,
+      "prov_id": "AYA",
+      "zone": [
+        "อำเภอบางไทร",
+        "อำเภอบางปะอิน"
+      ],
+      "total_vote_stations": 231,
+      "registered_vote": 139523
+    },
+    {
+      "cons_id": "AYA_5",
+      "cons_no": 5,
+      "prov_id": "AYA",
+      "zone": [
+        "อำเภอผักไห่",
+        "อำเภอลาดบัวหลวง",
+        "อำเภอเสนา",
+        "อำเภอบางซ้าย"
+      ],
+      "total_vote_stations": 239,
+      "registered_vote": 133055
+    },
+    {
+      "cons_id": "ATG_1",
+      "cons_no": 1,
+      "prov_id": "ATG",
+      "zone": [
+        "อำเภอเมืองอ่างทอง",
+        "อำเภอป่าโมก",
+        "อำเภอวิเศษชัยชาญ (ยกเว้นสาวร้องไห้ ม่วงเตี้ย)"
+      ],
+      "total_vote_stations": 249,
+      "registered_vote": 111666
+    },
+    {
+      "cons_id": "ATG_2",
+      "cons_no": 2,
+      "prov_id": "ATG",
+      "zone": [
+        "อำเภอไชโย",
+        "อำเภอโพธิ์ทอง",
+        "อำเภอแสวงหา",
+        "อำเภอวิเศษชัยชาญ (เฉพาะสาวร้องไห้ ม่วงเตี้ย)",
+        "อำเภอสามโก้"
+      ],
+      "total_vote_stations": 256,
+      "registered_vote": 112423
+    },
+    {
+      "cons_id": "LRI_1",
+      "cons_no": 1,
+      "prov_id": "LRI",
+      "zone": [
+        "อำเภอโคกสำโรง",
+        "อำเภอเมืองลพบุรี (เฉพาะกกโก ถนนใหญ่ เขาสามยอด เขาพระงาม โคกตูม นิคมสร้างตนเอง)"
+      ],
+      "total_vote_stations": 259,
+      "registered_vote": 151712
+    },
+    {
+      "cons_id": "LRI_2",
+      "cons_no": 2,
+      "prov_id": "LRI",
+      "zone": [
+        "อำเภอเมืองลพบุรี (ยกเว้นกกโก ถนนใหญ่ เขาสามยอด เขาพระงาม โคกตูม นิคมสร้างตนเอง)",
+        "อำเภอท่าวุ้ง"
+      ],
+      "total_vote_stations": 268,
+      "registered_vote": 149672
+    },
+    {
+      "cons_id": "LRI_3",
+      "cons_no": 3,
+      "prov_id": "LRI",
+      "zone": [
+        "อำเภอชัยบาดาล (เฉพาะชัยนารายณ์ ศิลาทิพย์ ห้วยหิน ม่วงค่อม มะกอกหวาน นิคมลำนารายณ์ บ้านใหม่สามัคคี)",
+        "อำเภอบ้านหมี่",
+        "อำเภอสระโบสถ์",
+        "อำเภอโคกเจริญ",
+        "อำเภอหนองม่วง"
+      ],
+      "total_vote_stations": 287,
+      "registered_vote": 145648
+    },
+    {
+      "cons_id": "LRI_4",
+      "cons_no": 4,
+      "prov_id": "LRI",
+      "zone": [
+        "อำเภอพัฒนานิคม",
+        "อำเภอชัยบาดาล (ยกเว้นชัยนารายณ์ ศิลาทิพย์ ห้วยหิน ม่วงค่อม มะกอกหวาน นิคมลำนารายณ์ บ้านใหม่สามัคคี)",
+        "อำเภอท่าหลวง",
+        "อำเภอลำสนธิ"
+      ],
+      "total_vote_stations": 281,
+      "registered_vote": 149394
+    },
+    {
+      "cons_id": "SBR_1",
+      "cons_no": 1,
+      "prov_id": "SBR",
+      "zone": [
+        "อำเภอเมืองสิงห์บุรี",
+        "อำเภอบางระจัน",
+        "อำเภอค่ายบางระจัน",
+        "อำเภอพรหมบุรี",
+        "อำเภอท่าช้าง",
+        "อำเภออินทร์บุรี"
+      ],
+      "total_vote_stations": 333,
+      "registered_vote": 167173
+    },
+    {
+      "cons_id": "CNT_1",
+      "cons_no": 1,
+      "prov_id": "CNT",
+      "zone": [
+        "อำเภอเมืองชัยนาท",
+        "อำเภอมโนรมย์",
+        "อำเภอวัดสิงห์ (ยกเว้นบ่อแร่ วังหมัน)",
+        "อำเภอสรรพยา"
+      ],
+      "total_vote_stations": 254,
+      "registered_vote": 131155
+    },
+    {
+      "cons_id": "CNT_2",
+      "cons_no": 2,
+      "prov_id": "CNT",
+      "zone": [
+        "อำเภอวัดสิงห์ (เฉพาะบ่อแร่ วังหมัน)",
+        "อำเภอสรรคบุรี",
+        "อำเภอหันคา",
+        "อำเภอหนองมะโมง",
+        "อำเภอเนินขาม"
+      ],
+      "total_vote_stations": 262,
+      "registered_vote": 130424
+    },
+    {
+      "cons_id": "SRI_1",
+      "cons_no": 1,
+      "prov_id": "SRI",
+      "zone": [
+        "อำเภอเมืองสระบุรี (ยกเว้นหนองโน)",
+        "อำเภอแก่งคอย (เฉพาะห้วยแห้ง)",
+        "อำเภอเฉลิมพระเกียรติ (เฉพาะเขาดินพัฒนา บ้านแก้ง ผึ้งรวง พุแค ห้วยบง หน้าพระลาน)"
+      ],
+      "total_vote_stations": 218,
+      "registered_vote": 128124
+    },
+    {
+      "cons_id": "SRI_2",
+      "cons_no": 2,
+      "prov_id": "SRI",
+      "zone": [
+        "อำเภอแก่งคอย (ยกเว้นห้วยแห้ง)",
+        "อำเภอมวกเหล็ก",
+        "อำเภอวังม่วง"
+      ],
+      "total_vote_stations": 244,
+      "registered_vote": 136691
+    },
+    {
+      "cons_id": "SRI_3",
+      "cons_no": 3,
+      "prov_id": "SRI",
+      "zone": [
+        "อำเภอเมืองสระบุรี (เฉพาะหนองโน)",
+        "อำเภอหนองแค",
+        "อำเภอวิหารแดง",
+        "อำเภอหนองแซง"
+      ],
+      "total_vote_stations": 208,
+      "registered_vote": 125851
+    },
+    {
+      "cons_id": "SRI_4",
+      "cons_no": 4,
+      "prov_id": "SRI",
+      "zone": [
+        "อำเภอบ้านหมอ",
+        "อำเภอดอนพุด",
+        "อำเภอหนองโดน",
+        "อำเภอพระพุทธบาท",
+        "อำเภอเสาไห้"
+      ],
+      "total_vote_stations": 234,
+      "registered_vote": 128318
+    },
+    {
+      "cons_id": "CBI_1",
+      "cons_no": 1,
+      "prov_id": "CBI",
+      "zone": [
+        "อำเภอเมืองชลบุรี (เฉพาะหนองรี หนองข้างคอก เหมือง เสม็ด ห้วยกะปิ บ้านปึก อ่างศิลา แสนสุข)"
+      ],
+      "total_vote_stations": 172,
+      "registered_vote": 133544
+    },
+    {
+      "cons_id": "CBI_2",
+      "cons_no": 2,
+      "prov_id": "CBI",
+      "zone": [
+        "อำเภอเมืองชลบุรี (เฉพาะนาป่า บ้านสวน บางทราย บางปลาสร้อย มะขามหย่ง บ้านโขด)"
+      ],
+      "total_vote_stations": 133,
+      "registered_vote": 113941
+    },
+    {
+      "cons_id": "CBI_3",
+      "cons_no": 3,
+      "prov_id": "CBI",
+      "zone": [
+        "อำเภอเมืองชลบุรี (เฉพาะคลองตำหรุ สำนักบก ดอนหัวฬ่อ หนองไม้แดง)",
+        "อำเภอบ้านบึง (ยกเว้นบ้านบึง คลองกิ่ว หนองอิรุณ หนองไผ่แก้ว)",
+        "อำเภอพานทอง"
+      ],
+      "total_vote_stations": 179,
+      "registered_vote": 127184
+    },
+    {
+      "cons_id": "CBI_4",
+      "cons_no": 4,
+      "prov_id": "CBI",
+      "zone": [
+        "อำเภอบ้านบึง (ยกเว้นมาบไผ่ หนองซ้ำซาก หนองบอนแดง หนองชาก)",
+        "อำเภอหนองใหญ่",
+        "อำเภอบ่อทอง"
+      ],
+      "total_vote_stations": 183,
+      "registered_vote": 120269
+    },
+    {
+      "cons_id": "CBI_5",
+      "cons_no": 5,
+      "prov_id": "CBI",
+      "zone": [
+        "อำเภอพนัสนิคม",
+        "อำเภอเกาะจันทร์"
+      ],
+      "total_vote_stations": 217,
+      "registered_vote": 134984
+    },
+    {
+      "cons_id": "CBI_6",
+      "cons_no": 6,
+      "prov_id": "CBI",
+      "zone": [
+        "อำเภอศรีราชา (ยกเว้นหนองขาม เขาคันทรง บ่อวิน บึง)",
+        "อำเภอเกาะสีชัง"
+      ],
+      "total_vote_stations": 177,
+      "registered_vote": 138570
+    },
+    {
+      "cons_id": "CBI_7",
+      "cons_no": 7,
+      "prov_id": "CBI",
+      "zone": [
+        "อำเภอศรีราชา (ยกเว้นบางพระ สุรศักดิ์ ทุ่งสุขลา ศรีราชา)"
+      ],
+      "total_vote_stations": 163,
+      "registered_vote": 127875
+    },
+    {
+      "cons_id": "CBI_8",
+      "cons_no": 8,
+      "prov_id": "CBI",
+      "zone": [
+        "อำเภอบางละมุง (ยกเว้นหนองปรือ)"
+      ],
+      "total_vote_stations": 181,
+      "registered_vote": 140456
+    },
+    {
+      "cons_id": "CBI_9",
+      "cons_no": 9,
+      "prov_id": "CBI",
+      "zone": [
+        "อำเภอบางละมุง (เฉพาะหนองปรือ)"
+      ],
+      "total_vote_stations": 165,
+      "registered_vote": 122755
+    },
+    {
+      "cons_id": "CBI_10",
+      "cons_no": 10,
+      "prov_id": "CBI",
+      "zone": [
+        "อำเภอสัตหีบ"
+      ],
+      "total_vote_stations": 177,
+      "registered_vote": 134689
+    },
+    {
+      "cons_id": "RYG_1",
+      "cons_no": 1,
+      "prov_id": "RYG",
+      "zone": [
+        "อำเภอเมืองระยอง (เฉพาะบ้านแลง นาตาขวัญ เนินพระ น้ำคอก ทับมา ห้วยโป่ง มาบตาพุด)",
+        "อำเภอบ้านค่าย (เฉพาะตาขัน)",
+        "อำเภอนิคมพัฒนา (เฉพาะมาบข่า)"
+      ],
+      "total_vote_stations": 179,
+      "registered_vote": 121744
+    },
+    {
+      "cons_id": "RYG_2",
+      "cons_no": 2,
+      "prov_id": "RYG",
+      "zone": [
+        "อำเภอเมืองระยอง (ยกเว้นบ้านแลง นาตาขวัญ น้ำคอก ทับมา ห้วยโป่ง มาบตาพุด)"
+      ],
+      "total_vote_stations": 201,
+      "registered_vote": 116647
+    },
+    {
+      "cons_id": "RYG_3",
+      "cons_no": 3,
+      "prov_id": "RYG",
+      "zone": [
+        "อำเภอแกลง",
+        "อำเภอเขาชะเมา"
+      ],
+      "total_vote_stations": 245,
+      "registered_vote": 124374
+    },
+    {
+      "cons_id": "RYG_4",
+      "cons_no": 4,
+      "prov_id": "RYG",
+      "zone": [
+        "อำเภอวังจันทร์",
+        "อำเภอบ้านค่าย (ยกเว้นตาขัน)",
+        "อำเภอปลวกแดง (ยกเว้นแม่น้ำคู้)"
+      ],
+      "total_vote_stations": 196,
+      "registered_vote": 129476
+    },
+    {
+      "cons_id": "RYG_5",
+      "cons_no": 5,
+      "prov_id": "RYG",
+      "zone": [
+        "อำเภอนิคมพัฒนา (ยกเว้นมาบข่า)",
+        "อำเภอบ้านฉาง",
+        "อำเภอปลวกแดง (เฉพาะแม่น้ำคู้)"
+      ],
+      "total_vote_stations": 178,
+      "registered_vote": 129567
+    },
+    {
+      "cons_id": "CTI_1",
+      "cons_no": 1,
+      "prov_id": "CTI",
+      "zone": [
+        "อำเภอเมืองจันทบุรี",
+        "อำเภอมะขาม (ยกเว้นปัถวี ฉมัน)",
+        "อำเภอแหลมสิงห์"
+      ],
+      "total_vote_stations": 295,
+      "registered_vote": 148028
+    },
+    {
+      "cons_id": "CTI_2",
+      "cons_no": 2,
+      "prov_id": "CTI",
+      "zone": [
+        "อำเภอท่าใหม่",
+        "อำเภอแก่งหางแมว",
+        "อำเภอนายายอาม",
+        "อำเภอเขาคิชฌกูฏ"
+      ],
+      "total_vote_stations": 288,
+      "registered_vote": 142477
+    },
+    {
+      "cons_id": "CTI_3",
+      "cons_no": 3,
+      "prov_id": "CTI",
+      "zone": [
+        "อำเภอขลุง",
+        "อำเภอโป่งน้ำร้อน",
+        "อำเภอมะขาม (เฉพาะปัถวี ฉมัน)",
+        "อำเภอสอยดาว"
+      ],
+      "total_vote_stations": 296,
+      "registered_vote": 142287
+    },
+    {
+      "cons_id": "TRT_1",
+      "cons_no": 1,
+      "prov_id": "TRT",
+      "zone": [
+        "อำเภอเมืองตราด",
+        "อำเภอคลองใหญ่",
+        "อำเภอเขาสมิง",
+        "อำเภอบ่อไร่",
+        "อำเภอแหลมงอบ",
+        "อำเภอเกาะกูด",
+        "อำเภอเกาะช้าง"
+      ],
+      "total_vote_stations": 347,
+      "registered_vote": 176920
+    },
+    {
+      "cons_id": "CCO_1",
+      "cons_no": 1,
+      "prov_id": "CCO",
+      "zone": [
+        "อำเภอเมืองฉะเชิงเทรา",
+        "อำเภอบ้านโพธิ์ (เฉพาะเกาะไร่ คลองประเวศ เทพราช บางกรูด)"
+      ],
+      "total_vote_stations": 257,
+      "registered_vote": 146573
+    },
+    {
+      "cons_id": "CCO_2",
+      "cons_no": 2,
+      "prov_id": "CCO",
+      "zone": [
+        "อำเภอบางคล้า",
+        "อำเภอบางน้ำเปรี้ยว",
+        "อำเภอพนมสารคาม (เฉพาะพนมสารคาม หนองยาว)",
+        "อำเภอราชสาส์น",
+        "อำเภอคลองเขื่อน"
+      ],
+      "total_vote_stations": 278,
+      "registered_vote": 145059
+    },
+    {
+      "cons_id": "CCO_3",
+      "cons_no": 3,
+      "prov_id": "CCO",
+      "zone": [
+        "อำเภอพนมสารคาม (ยกเว้นพนมสารคาม หนองยาว)",
+        "อำเภอสนามชัยเขต",
+        "อำเภอท่าตะเกียบ"
+      ],
+      "total_vote_stations": 259,
+      "registered_vote": 148423
+    },
+    {
+      "cons_id": "CCO_4",
+      "cons_no": 4,
+      "prov_id": "CCO",
+      "zone": [
+        "อำเภอบางปะกง",
+        "อำเภอบ้านโพธิ์ (ยกเว้นเกาะไร่ คลองประเวศ เทพราช บางกรูด)",
+        "อำเภอแปลงยาว"
+      ],
+      "total_vote_stations": 257,
+      "registered_vote": 151927
+    },
+    {
+      "cons_id": "PRI_1",
+      "cons_no": 1,
+      "prov_id": "PRI",
+      "zone": [
+        "อำเภอเมืองปราจีนบุรี",
+        "อำเภอบ้านสร้าง",
+        "อำเภอศรีมโหสถ"
+      ],
+      "total_vote_stations": 241,
+      "registered_vote": 132597
+    },
+    {
+      "cons_id": "PRI_2",
+      "cons_no": 2,
+      "prov_id": "PRI",
+      "zone": [
+        "อำเภอนาดี (ยกเว้นทุ่งโพธิ์ แก่งดินสอ)",
+        "อำเภอประจันตคาม",
+        "อำเภอศรีมหาโพธิ"
+      ],
+      "total_vote_stations": 296,
+      "registered_vote": 141803
+    },
+    {
+      "cons_id": "PRI_3",
+      "cons_no": 3,
+      "prov_id": "PRI",
+      "zone": [
+        "อำเภอกบินทร์บุรี",
+        "อำเภอนาดี (เฉพาะทุ่งโพธิ์ แก่งดินสอ)"
+      ],
+      "total_vote_stations": 262,
+      "registered_vote": 129130
+    },
+    {
+      "cons_id": "NYK_1",
+      "cons_no": 1,
+      "prov_id": "NYK",
+      "zone": [
+        "อำเภอเมืองนครนายก",
+        "อำเภอปากพลี"
+      ],
+      "total_vote_stations": 210,
+      "registered_vote": 104054
+    },
+    {
+      "cons_id": "NYK_2",
+      "cons_no": 2,
+      "prov_id": "NYK",
+      "zone": [
+        "อำเภอบ้านนา",
+        "อำเภอองครักษ์"
+      ],
+      "total_vote_stations": 255,
+      "registered_vote": 108945
+    },
+    {
+      "cons_id": "BRM_4",
+      "cons_no": 4,
+      "prov_id": "BRM",
+      "zone": [
+        "อำเภอสตึก",
+        "อำเภอบ้านด่าน (ยกเว้นปราสาท บ้านด่าน)",
+        "อำเภอแคนดง"
+      ],
+      "total_vote_stations": 271,
+      "registered_vote": 121519
+    },
+    {
+      "cons_id": "SKW_1",
+      "cons_no": 1,
+      "prov_id": "SKW",
+      "zone": [
+        "อำเภอเมืองสระแก้ว",
+        "อำเภอวังน้ำเย็น (เฉพาะทุ่งมหาเจริญ)",
+        "อำเภอเขาฉกรรจ์"
+      ],
+      "total_vote_stations": 291,
+      "registered_vote": 147502
+    },
+    {
+      "cons_id": "SKW_2",
+      "cons_no": 2,
+      "prov_id": "SKW",
+      "zone": [
+        "อำเภอคลองหาด",
+        "อำเภอวังน้ำเย็น (ยกเว้นทุ่งมหาเจริญ)",
+        "อำเภอวัฒนานคร (ยกเว้นช่องกุ่ม แซร์ออ)",
+        "อำเภอวังสมบูรณ์"
+      ],
+      "total_vote_stations": 306,
+      "registered_vote": 145146
+    },
+    {
+      "cons_id": "SKW_3",
+      "cons_no": 3,
+      "prov_id": "SKW",
+      "zone": [
+        "อำเภอตาพระยา",
+        "อำเภอวัฒนานคร (เฉพาะช่องกุ่ม แซร์ออ)",
+        "อำเภออรัญประเทศ",
+        "อำเภอโคกสูง"
+      ],
+      "total_vote_stations": 304,
+      "registered_vote": 151047
+    },
+    {
+      "cons_id": "NMA_1",
+      "cons_no": 1,
+      "prov_id": "NMA",
+      "zone": [
+        "อำเภอเมืองนครราชสีมา (เฉพาะโพธิ์กลาง หนองไผ่ล้อม ในเมือง)"
+      ],
+      "total_vote_stations": 240,
+      "registered_vote": 128667
+    },
+    {
+      "cons_id": "NMA_2",
+      "cons_no": 2,
+      "prov_id": "NMA",
+      "zone": [
+        "อำเภอเมืองนครราชสีมา (เฉพาะโคกสูง มะเริง หนองระเวียง บ้านเกาะ บ้านโพธิ์ จอหอ หนองบัวศาลา ตลาด พะเนา หนองไข่น้ำ หัวทะเล)"
+      ],
+      "total_vote_stations": 217,
+      "registered_vote": 141222
+    },
+    {
+      "cons_id": "NMA_3",
+      "cons_no": 3,
+      "prov_id": "NMA",
+      "zone": [
+        "อำเภอเมืองนครราชสีมา (เฉพาะหนองจะบก หมื่นไวย พลกรัง บ้านใหม่ พุดซา ไชยมงคล สุรนารี สีมุม หนองกระทุ่ม โคกกรวด ปรุใหญ่)",
+        "อำเภอโนนไทย (เฉพาะด่านจาก กำปัง สำโรง)"
+      ],
+      "total_vote_stations": 234,
+      "registered_vote": 136549
+    },
+    {
+      "cons_id": "NMA_4",
+      "cons_no": 4,
+      "prov_id": "NMA",
+      "zone": [
+        "อำเภอโนนไทย (ยกเว้นด่านจาก กำปัง สำโรง)",
+        "อำเภอสูงเนิน",
+        "อำเภอขามทะเลสอ"
+      ],
+      "total_vote_stations": 306,
+      "registered_vote": 131758
+    },
+    {
+      "cons_id": "NMA_5",
+      "cons_no": 5,
+      "prov_id": "NMA",
+      "zone": [
+        "อำเภอโนนสูง",
+        "อำเภอพิมาย (เฉพาะสัมฤทธิ์ กระเบื้องใหญ่ ท่าหลวง ชีวาน)",
+        "อำเภอเฉลิมพระเกียรติ (เฉพาะช้างทอง ท่าช้าง)"
+      ],
+      "total_vote_stations": 296,
+      "registered_vote": 133508
+    },
+    {
+      "cons_id": "NMA_6",
+      "cons_no": 6,
+      "prov_id": "NMA",
+      "zone": [
+        "อำเภอบัวใหญ่",
+        "อำเภอแก้งสนามนาง",
+        "อำเภอบัวลาย",
+        "อำเภอสีดา"
+      ],
+      "total_vote_stations": 307,
+      "registered_vote": 133507
+    },
+    {
+      "cons_id": "NMA_7",
+      "cons_no": 7,
+      "prov_id": "NMA",
+      "zone": [
+        "อำเภอประทาย",
+        "อำเภอโนนแดง",
+        "อำเภอเมืองยาง",
+        "อำเภอลำทะเมนชัย"
+      ],
+      "total_vote_stations": 331,
+      "registered_vote": 131810
+    },
+    {
+      "cons_id": "NMA_8",
+      "cons_no": 8,
+      "prov_id": "NMA",
+      "zone": [
+        "อำเภอพิมาย (ยกเว้นสัมฤทธิ์ กระเบื้องใหญ่ ท่าหลวง ชีวาน)",
+        "อำเภอชุมพวง (ยกเว้นตลาดไทร โนนตูม)"
+      ],
+      "total_vote_stations": 293,
+      "registered_vote": 133816
+    },
+    {
+      "cons_id": "NMA_9",
+      "cons_no": 9,
+      "prov_id": "NMA",
+      "zone": [
+        "อำเภอจักราช",
+        "อำเภอห้วยแถลง",
+        "อำเภอชุมพวง (เฉพาะตลาดไทร โนนตูม)"
+      ],
+      "total_vote_stations": 300,
+      "registered_vote": 135762
+    },
+    {
+      "cons_id": "NMA_10",
+      "cons_no": 10,
+      "prov_id": "NMA",
+      "zone": [
+        "อำเภอครบุรี (ยกเว้นโคกกระชาย มาบตะโกเอน ลำเพียก ตะแบกบาน สระว่านพระยา)",
+        "อำเภอโชคชัย",
+        "อำเภอเฉลิมพระเกียรติ (เฉพาะพระพุทธ หนองงูเหลือม หนองยาง)"
+      ],
+      "total_vote_stations": 303,
+      "registered_vote": 138144
+    },
+    {
+      "cons_id": "NMA_11",
+      "cons_no": 11,
+      "prov_id": "NMA",
+      "zone": [
+        "อำเภอครบุรี (เฉพาะโคกกระชาย มาบตะโกเอน ลำเพียก ตะแบกบาน สระว่านพระยา)",
+        "อำเภอเสิงสาง",
+        "อำเภอหนองบุญมาก"
+      ],
+      "total_vote_stations": 272,
+      "registered_vote": 132460
+    },
+    {
+      "cons_id": "NMA_12",
+      "cons_no": 12,
+      "prov_id": "NMA",
+      "zone": [
+        "อำเภอปักธงชัย",
+        "อำเภอวังน้ำเขียว"
+      ],
+      "total_vote_stations": 327,
+      "registered_vote": 132505
+    },
+    {
+      "cons_id": "NMA_13",
+      "cons_no": 13,
+      "prov_id": "NMA",
+      "zone": [
+        "อำเภอสีคิ้ว",
+        "อำเภอปากช่อง (เฉพาะวังกะทะ โป่งตาลอง คลองม่วง วังไทร)"
+      ],
+      "total_vote_stations": 285,
+      "registered_vote": 130106
+    },
+    {
+      "cons_id": "NMA_14",
+      "cons_no": 14,
+      "prov_id": "NMA",
+      "zone": [
+        "อำเภอปากช่อง (ยกเว้นวังกะทะ โป่งตาลอง คลองม่วง วังไทร)"
+      ],
+      "total_vote_stations": 240,
+      "registered_vote": 130825
+    },
+    {
+      "cons_id": "NMA_15",
+      "cons_no": 15,
+      "prov_id": "NMA",
+      "zone": [
+        "อำเภอด่านขุนทด",
+        "อำเภอเทพารักษ์",
+        "อำเภอพระทองคำ (เฉพาะมาบกราด ทัพรั้ง)"
+      ],
+      "total_vote_stations": 330,
+      "registered_vote": 138615
+    },
+    {
+      "cons_id": "NMA_16",
+      "cons_no": 16,
+      "prov_id": "NMA",
+      "zone": [
+        "อำเภอคง",
+        "อำเภอบ้านเหลื่อม",
+        "อำเภอขามสะแกแสง",
+        "อำเภอพระทองคำ (ยกเว้นมาบกราด ทัพรั้ง)"
+      ],
+      "total_vote_stations": 340,
+      "registered_vote": 136001
+    },
+    {
+      "cons_id": "BRM_1",
+      "cons_no": 1,
+      "prov_id": "BRM",
+      "zone": [
+        "อำเภอเมืองบุรีรัมย์ (ยกเว้นเสม็ด สวายจีก สองห้อง หลักเขต สะแกซำ เมืองฝาง อิสาณ)",
+        "อำเภอบ้านด่าน (ยกเว้นวังเหนือ โนนขวาง)"
+      ],
+      "total_vote_stations": 275,
+      "registered_vote": 125325
+    },
+    {
+      "cons_id": "BRM_2",
+      "cons_no": 2,
+      "prov_id": "BRM",
+      "zone": [
+        "อำเภอเมืองบุรีรัมย์ (เฉพาะเสม็ด สวายจีก สองห้อง หลักเขต สะแกซำ เมืองฝาง อิสาณ)",
+        "อำเภอประโคนชัย (เฉพาะไพศาล)",
+        "อำเภอพลับพลาชัย (ยกเว้นโคกขมิ้น ป่าชัน)",
+        "อำเภอชำนิ"
+      ],
+      "total_vote_stations": 277,
+      "registered_vote": 127640
+    },
+    {
+      "cons_id": "BRM_3",
+      "cons_no": 3,
+      "prov_id": "BRM",
+      "zone": [
+        "อำเภอกระสัง",
+        "อำเภอพลับพลาชัย (เฉพาะโคกขมิ้น ป่าชัน)",
+        "อำเภอห้วยราช"
+      ],
+      "total_vote_stations": 281,
+      "registered_vote": 125637
+    },
+    {
+      "cons_id": "BRM_5",
+      "cons_no": 5,
+      "prov_id": "BRM",
+      "zone": [
+        "อำเภอคูเมือง (ยกเว้นพรสำราญ)",
+        "อำเภอพุทไธสง",
+        "อำเภอนาโพธิ์",
+        "อำเภอบ้านใหม่ไชยพจน์"
+      ],
+      "total_vote_stations": 318,
+      "registered_vote": 131438
+    },
+    {
+      "cons_id": "BRM_6",
+      "cons_no": 6,
+      "prov_id": "BRM",
+      "zone": [
+        "อำเภอคูเมือง (เฉพาะพรสำราญ)",
+        "อำเภอลำปลายมาศ",
+        "อำเภอหนองหงส์ (เฉพาะไทยสามัคคี เสาเดียว สระทอง)"
+      ],
+      "total_vote_stations": 310,
+      "registered_vote": 130776
+    },
+    {
+      "cons_id": "BRM_7",
+      "cons_no": 7,
+      "prov_id": "BRM",
+      "zone": [
+        "อำเภอหนองกี่",
+        "อำเภอปะคำ (ยกเว้นหูทำนบ ปะคำ)",
+        "อำเภอหนองหงส์ (ยกเว้นไทยสามัคคี เสาเดียว สระทอง)",
+        "อำเภอโนนสุวรรณ"
+      ],
+      "total_vote_stations": 271,
+      "registered_vote": 123023
+    },
+    {
+      "cons_id": "BRM_8",
+      "cons_no": 8,
+      "prov_id": "BRM",
+      "zone": [
+        "อำเภอนางรอง",
+        "อำเภอปะคำ (เฉพาะหูทำนบ ปะคำ)",
+        "อำเภอโนนดินแดง (เฉพาะโนนดินแดง)",
+        "อำเภอเฉลิมพระเกียรติ (เฉพาะเจริญสุข ถาวร)"
+      ],
+      "total_vote_stations": 280,
+      "registered_vote": 126975
+    },
+    {
+      "cons_id": "BRM_9",
+      "cons_no": 9,
+      "prov_id": "BRM",
+      "zone": [
+        "อำเภอละหานทราย",
+        "อำเภอบ้านกรวด (ยกเว้นโนนเจริญ สายตะกู หินลาด เขาดินเหนือ)",
+        "อำเภอโนนดินแดง (ยกเว้นโนนดินแดง)",
+        "อำเภอเฉลิมพระเกียรติ (เฉพาะอีสานเขต ยายแย้มวัฒนา ตาเป๊ก)"
+      ],
+      "total_vote_stations": 252,
+      "registered_vote": 127988
+    },
+    {
+      "cons_id": "BRM_10",
+      "cons_no": 10,
+      "prov_id": "BRM",
+      "zone": [
+        "อำเภอประโคนชัย (ยกเว้นไพศาล)",
+        "อำเภอบ้านกรวด (เฉพาะโนนเจริญ สายตะกู หินลาด เขาดินเหนือ)"
+      ],
+      "total_vote_stations": 223,
+      "registered_vote": 121301
+    },
+    {
+      "cons_id": "SRN_1",
+      "cons_no": 1,
+      "prov_id": "SRN",
+      "zone": [
+        "อำเภอเมืองสุรินทร์ (เฉพาะตาอ็อง สำโรง นอกเมือง คอโค สวาย เฉนียง เทนมีย์ นาบัว ตระแสง ในเมือง)",
+        "อำเภอศีขรภูมิ (เฉพาะหนองเหล็ก ตรมไพร)"
+      ],
+      "total_vote_stations": 248,
+      "registered_vote": 136098
+    },
+    {
+      "cons_id": "SRN_2",
+      "cons_no": 2,
+      "prov_id": "SRN",
+      "zone": [
+        "อำเภอเมืองสุรินทร์ (ยกเว้นตาอ็อง สำโรง นอกเมือง คอโค สวาย เฉนียง เทนมีย์ นาบัว ตระแสง ในเมือง)",
+        "อำเภอศีขรภูมิ (เฉพาะจารพัต แตล ช่างปี่)",
+        "อำเภอเขวาสินรินทร์"
+      ],
+      "total_vote_stations": 265,
+      "registered_vote": 140119
+    },
+    {
+      "cons_id": "SRN_3",
+      "cons_no": 3,
+      "prov_id": "SRN",
+      "zone": [
+        "อำเภอท่าตูม (ยกเว้นพรมเทพ โพนครก ทุ่งกุลา)",
+        "อำเภอจอมพระ",
+        "อำเภอสนม (ยกเว้นหัวงัว)"
+      ],
+      "total_vote_stations": 317,
+      "registered_vote": 137394
+    },
+    {
+      "cons_id": "SRN_4",
+      "cons_no": 4,
+      "prov_id": "SRN",
+      "zone": [
+        "อำเภอชุมพลบุรี",
+        "อำเภอท่าตูม (เฉพาะพรมเทพ โพนครก ทุ่งกุลา)",
+        "อำเภอรัตนบุรี (ยกเว้นเบิด ยางสว่าง)"
+      ],
+      "total_vote_stations": 309,
+      "registered_vote": 139651
+    },
+    {
+      "cons_id": "SRN_5",
+      "cons_no": 5,
+      "prov_id": "SRN",
+      "zone": [
+        "อำเภอรัตนบุรี (เฉพาะเบิด ยางสว่าง)",
+        "อำเภอสนม (เฉพาะหัวงัว)",
+        "อำเภอศีขรภูมิ (ยกเว้นจารพัต แตล หนองเหล็ก ช่างปี่ กุดหวาย ตรมไพร ผักไหม)",
+        "อำเภอสำโรงทาบ",
+        "อำเภอโนนนารายณ์"
+      ],
+      "total_vote_stations": 317,
+      "registered_vote": 135554
+    },
+    {
+      "cons_id": "SRN_6",
+      "cons_no": 6,
+      "prov_id": "SRN",
+      "zone": [
+        "อำเภอศีขรภูมิ (เฉพาะกุดหวาย ผักไหม)",
+        "อำเภอสังขะ (ยกเว้นตาตุม เทพรักษา)",
+        "อำเภอศรีณรงค์"
+      ],
+      "total_vote_stations": 273,
+      "registered_vote": 134172
+    },
+    {
+      "cons_id": "SRN_7",
+      "cons_no": 7,
+      "prov_id": "SRN",
+      "zone": [
+        "อำเภอปราสาท (ยกเว้นโชคนาสาม)",
+        "อำเภอลำดวน"
+      ],
+      "total_vote_stations": 293,
+      "registered_vote": 136448
+    },
+    {
+      "cons_id": "SRN_8",
+      "cons_no": 8,
+      "prov_id": "SRN",
+      "zone": [
+        "อำเภอปราสาท (เฉพาะโชคนาสาม)",
+        "อำเภอกาบเชิง",
+        "อำเภอสังขะ (เฉพาะตาตุม เทพรักษา)",
+        "อำเภอบัวเชด",
+        "อำเภอพนมดงรัก"
+      ],
+      "total_vote_stations": 261,
+      "registered_vote": 136843
+    },
+    {
+      "cons_id": "SSK_1",
+      "cons_no": 1,
+      "prov_id": "SSK",
+      "zone": [
+        "อำเภอเมืองศรีสะเกษ",
+        "อำเภอวังหิน (ยกเว้นดวนใหญ่ ศรีสำราญ วังหิน โพนยาง)"
+      ],
+      "total_vote_stations": 289,
+      "registered_vote": 132927
+    },
+    {
+      "cons_id": "SSK_2",
+      "cons_no": 2,
+      "prov_id": "SSK",
+      "zone": [
+        "อำเภอกันทรารมย์",
+        "อำเภอโนนคูณ (เฉพาะบก โพธิ์)",
+        "อำเภอน้ำเกลี้ยง"
+      ],
+      "total_vote_stations": 288,
+      "registered_vote": 128729
+    },
+    {
+      "cons_id": "SSK_3",
+      "cons_no": 3,
+      "prov_id": "SSK",
+      "zone": [
+        "อำเภอกันทรลักษ์ (เฉพาะตระกาจ จานใหญ่ ภูเงิน กระแชง)",
+        "อำเภอโนนคูณ (ยกเว้นบก โพธิ์)",
+        "อำเภอศรีรัตนะ",
+        "อำเภอเบญจลักษ์"
+      ],
+      "total_vote_stations": 292,
+      "registered_vote": 128000
+    },
+    {
+      "cons_id": "SSK_4",
+      "cons_no": 4,
+      "prov_id": "SSK",
+      "zone": [
+        "อำเภอกันทรลักษ์ (ยกเว้นตระกาจ จานใหญ่ ภูเงิน กระแชง)"
+      ],
+      "total_vote_stations": 243,
+      "registered_vote": 122479
+    },
+    {
+      "cons_id": "SSK_5",
+      "cons_no": 5,
+      "prov_id": "SSK",
+      "zone": [
+        "อำเภอขุนหาญ",
+        "อำเภอภูสิงห์"
+      ],
+      "total_vote_stations": 245,
+      "registered_vote": 127678
+    },
+    {
+      "cons_id": "SSK_6",
+      "cons_no": 6,
+      "prov_id": "SSK",
+      "zone": [
+        "อำเภอขุขันธ์",
+        "อำเภอไพรบึง (เฉพาะสำโรงพลัน)"
+      ],
+      "total_vote_stations": 314,
+      "registered_vote": 128761
+    },
+    {
+      "cons_id": "SSK_7",
+      "cons_no": 7,
+      "prov_id": "SSK",
+      "zone": [
+        "อำเภอไพรบึง (ยกเว้นสำโรงพลัน)",
+        "อำเภอปรางค์กู่",
+        "อำเภอวังหิน (ยกเว้นธาตุ บ่อแก้ว ทุ่งสว่าง บุสูง)",
+        "อำเภอพยุห์"
+      ],
+      "total_vote_stations": 342,
+      "registered_vote": 127528
+    },
+    {
+      "cons_id": "SSK_8",
+      "cons_no": 8,
+      "prov_id": "SSK",
+      "zone": [
+        "อำเภออุทุมพรพิสัย",
+        "อำเภอห้วยทับทัน",
+        "อำเภอเมืองจันทร์"
+      ],
+      "total_vote_stations": 380,
+      "registered_vote": 133339
+    },
+    {
+      "cons_id": "SSK_9",
+      "cons_no": 9,
+      "prov_id": "SSK",
+      "zone": [
+        "อำเภอยางชุมน้อย",
+        "อำเภอราษีไศล",
+        "อำเภอบึงบูรพ์",
+        "อำเภอโพธิ์ศรีสุวรรณ",
+        "อำเภอศิลาลาด"
+      ],
+      "total_vote_stations": 424,
+      "registered_vote": 139255
+    },
+    {
+      "cons_id": "UBN_1",
+      "cons_no": 1,
+      "prov_id": "UBN",
+      "zone": [
+        "อำเภอเมืองอุบลราชธานี (ยกเว้นหัวเรือ หนองขอน ไร่น้อย ขี้เหล็ก ปะอาว)"
+      ],
+      "total_vote_stations": 248,
+      "registered_vote": 132544
+    },
+    {
+      "cons_id": "UBN_2",
+      "cons_no": 2,
+      "prov_id": "UBN",
+      "zone": [
+        "อำเภอเมืองอุบลราชธานี (เฉพาะหัวเรือ หนองขอน ไร่น้อย ขี้เหล็ก ปะอาว)",
+        "อำเภอเขื่องใน"
+      ],
+      "total_vote_stations": 287,
+      "registered_vote": 136569
+    },
+    {
+      "cons_id": "UBN_3",
+      "cons_no": 3,
+      "prov_id": "UBN",
+      "zone": [
+        "อำเภอม่วงสามสิบ",
+        "อำเภอตาลสุม",
+        "อำเภอดอนมดแดง",
+        "อำเภอเหล่าเสือโก้ก"
+      ],
+      "total_vote_stations": 335,
+      "registered_vote": 139753
+    },
+    {
+      "cons_id": "UBN_4",
+      "cons_no": 4,
+      "prov_id": "UBN",
+      "zone": [
+        "อำเภอวารินชำราบ",
+        "อำเภอสำโรง (เฉพาะสำโรง โคกก่อง บอน)"
+      ],
+      "total_vote_stations": 307,
+      "registered_vote": 150372
+    },
+    {
+      "cons_id": "UBN_5",
+      "cons_no": 5,
+      "prov_id": "UBN",
+      "zone": [
+        "อำเภอตระการพืชผล",
+        "อำเภอกุดข้าวปุ้น"
+      ],
+      "total_vote_stations": 322,
+      "registered_vote": 131064
+    },
+    {
+      "cons_id": "UBN_6",
+      "cons_no": 6,
+      "prov_id": "UBN",
+      "zone": [
+        "อำเภอเขมราฐ",
+        "อำเภอโพธิ์ไทร",
+        "อำเภอนาตาล"
+      ],
+      "total_vote_stations": 278,
+      "registered_vote": 132041
+    },
+    {
+      "cons_id": "UBN_7",
+      "cons_no": 7,
+      "prov_id": "UBN",
+      "zone": [
+        "อำเภอศรีเมืองใหม่",
+        "อำเภอโขงเจียม",
+        "อำเภอพิบูลมังสาหาร (เฉพาะทรายมูล ระเว)",
+        "อำเภอสิรินธร (ยกเว้นโนนก่อ)"
+      ],
+      "total_vote_stations": 285,
+      "registered_vote": 131286
+    },
+    {
+      "cons_id": "UBN_8",
+      "cons_no": 8,
+      "prov_id": "UBN",
+      "zone": [
+        "อำเภอพิบูลมังสาหาร (ยกเว้นทรายมูล ระเว)",
+        "อำเภอนาเยีย",
+        "อำเภอสว่างวีระวงศ์"
+      ],
+      "total_vote_stations": 295,
+      "registered_vote": 137335
+    },
+    {
+      "cons_id": "UBN_9",
+      "cons_no": 9,
+      "prov_id": "UBN",
+      "zone": [
+        "อำเภอนาจะหลวย",
+        "อำเภอบุณฑริก",
+        "อำเภอสิรินธร (เฉพาะโนนก่อ)"
+      ],
+      "total_vote_stations": 244,
+      "registered_vote": 130180
+    },
+    {
+      "cons_id": "UBN_10",
+      "cons_no": 10,
+      "prov_id": "UBN",
+      "zone": [
+        "อำเภอเดชอุดม (เฉพาะทุ่งเทิง)",
+        "อำเภอน้ำยืน",
+        "อำเภอสำโรง (ยกเว้นสำโรง โคกก่อง บอน)",
+        "อำเภอทุ่งศรีอุดม",
+        "อำเภอน้ำขุ่น"
+      ],
+      "total_vote_stations": 321,
+      "registered_vote": 141283
+    },
+    {
+      "cons_id": "UBN_11",
+      "cons_no": 11,
+      "prov_id": "UBN",
+      "zone": [
+        "อำเภอเดชอุดม (ยกเว้นทุ่งเทิง)"
+      ],
+      "total_vote_stations": 247,
+      "registered_vote": 135372
+    },
+    {
+      "cons_id": "YST_1",
+      "cons_no": 1,
+      "prov_id": "YST",
+      "zone": [
+        "อำเภอเมืองยโสธร",
+        "อำเภอทรายมูล",
+        "อำเภอคำเขื่อนแก้ว (เฉพาะทุ่งมน)",
+        "อำเภอป่าติ้ว (เฉพาะกระจาย ศรีฐาน)"
+      ],
+      "total_vote_stations": 307,
+      "registered_vote": 144704
+    },
+    {
+      "cons_id": "YST_2",
+      "cons_no": 2,
+      "prov_id": "YST",
+      "zone": [
+        "อำเภอคำเขื่อนแก้ว (ยกเว้นทุ่งมน)",
+        "อำเภอป่าติ้ว (ยกเว้นกระจาย ศรีฐาน)",
+        "อำเภอมหาชนะชัย",
+        "อำเภอค้อวัง",
+        "อำเภอไทยเจริญ (เฉพาะน้ำคำ คำไผ่)"
+      ],
+      "total_vote_stations": 307,
+      "registered_vote": 141190
+    },
+    {
+      "cons_id": "YST_3",
+      "cons_no": 3,
+      "prov_id": "YST",
+      "zone": [
+        "อำเภอกุดชุม",
+        "อำเภอเลิงนกทา",
+        "อำเภอไทยเจริญ (ยกเว้นน้ำคำ คำไผ่)"
+      ],
+      "total_vote_stations": 312,
+      "registered_vote": 146614
+    },
+    {
+      "cons_id": "CPM_1",
+      "cons_no": 1,
+      "prov_id": "CPM",
+      "zone": [
+        "อำเภอเมืองชัยภูมิ (ยกเว้นท่าหินโงม ห้วยต้อน ซับสีทอง)"
+      ],
+      "total_vote_stations": 263,
+      "registered_vote": 129441
+    },
+    {
+      "cons_id": "CPM_2",
+      "cons_no": 2,
+      "prov_id": "CPM",
+      "zone": [
+        "อำเภอบ้านเขว้า",
+        "อำเภอจัตุรัส",
+        "อำเภอเนินสง่า",
+        "อำเภอซับใหญ่"
+      ],
+      "total_vote_stations": 345,
+      "registered_vote": 133561
+    },
+    {
+      "cons_id": "CPM_3",
+      "cons_no": 3,
+      "prov_id": "CPM",
+      "zone": [
+        "อำเภอบำเหน็จณรงค์",
+        "อำเภอหนองบัวระเหว",
+        "อำเภอเทพสถิต"
+      ],
+      "total_vote_stations": 308,
+      "registered_vote": 127154
+    },
+    {
+      "cons_id": "CPM_4",
+      "cons_no": 4,
+      "prov_id": "CPM",
+      "zone": [
+        "อำเภอเมืองชัยภูมิ (เฉพาะห้วยต้อน)",
+        "อำเภอเกษตรสมบูรณ์ (เฉพาะหนองข่า)",
+        "อำเภอหนองบัวแดง",
+        "อำเภอภักดีชุมพล"
+      ],
+      "total_vote_stations": 232,
+      "registered_vote": 121184
+    },
+    {
+      "cons_id": "CPM_5",
+      "cons_no": 5,
+      "prov_id": "CPM",
+      "zone": [
+        "อำเภอเกษตรสมบูรณ์ (ยกเว้นหนองข่า)",
+        "อำเภอคอนสาร"
+      ],
+      "total_vote_stations": 268,
+      "registered_vote": 132089
+    },
+    {
+      "cons_id": "CPM_6",
+      "cons_no": 6,
+      "prov_id": "CPM",
+      "zone": [
+        "อำเภอภูเขียว",
+        "อำเภอบ้านแท่น"
+      ],
+      "total_vote_stations": 272,
+      "registered_vote": 134526
+    },
+    {
+      "cons_id": "CPM_7",
+      "cons_no": 7,
+      "prov_id": "CPM",
+      "zone": [
+        "อำเภอเมืองชัยภูมิ (เฉพาะท่าหินโงม ซับสีทอง)",
+        "อำเภอคอนสวรรค์",
+        "อำเภอแก้งคร้อ"
+      ],
+      "total_vote_stations": 287,
+      "registered_vote": 126889
+    },
+    {
+      "cons_id": "ACR_1",
+      "cons_no": 1,
+      "prov_id": "ACR",
+      "zone": [
+        "อำเภอเมืองอำนาจเจริญ",
+        "อำเภอหัวตะพาน"
+      ],
+      "total_vote_stations": 323,
+      "registered_vote": 145524
+    },
+    {
+      "cons_id": "ACR_2",
+      "cons_no": 2,
+      "prov_id": "ACR",
+      "zone": [
+        "อำเภอชานุมาน",
+        "อำเภอปทุมราชวงศา",
+        "อำเภอพนา",
+        "อำเภอเสนางคนิคม",
+        "อำเภอลืออำนาจ"
+      ],
+      "total_vote_stations": 352,
+      "registered_vote": 157184
+    },
+    {
+      "cons_id": "BKN_1",
+      "cons_no": 1,
+      "prov_id": "BKN",
+      "zone": [
+        "อำเภอเมืองบึงกาฬ",
+        "อำเภอศรีวิไล"
+      ],
+      "total_vote_stations": 218,
+      "registered_vote": 104792
+    },
+    {
+      "cons_id": "BKN_2",
+      "cons_no": 2,
+      "prov_id": "BKN",
+      "zone": [
+        "อำเภอเซกา",
+        "อำเภอบึงโขงหลง",
+        "อำเภอบุ่งคล้า"
+      ],
+      "total_vote_stations": 267,
+      "registered_vote": 109412
+    },
+    {
+      "cons_id": "BKN_3",
+      "cons_no": 3,
+      "prov_id": "BKN",
+      "zone": [
+        "อำเภอพรเจริญ",
+        "อำเภอโซ่พิสัย",
+        "อำเภอปากคาด"
+      ],
+      "total_vote_stations": 259,
+      "registered_vote": 118398
+    },
+    {
+      "cons_id": "NBP_1",
+      "cons_no": 1,
+      "prov_id": "NBP",
+      "zone": [
+        "อำเภอเมืองหนองบัวลำภู",
+        "อำเภอโนนสัง (ยกเว้นหนองเรือ โนนเมือง โคกใหญ่ โคกม่วง นิคมพัฒนา)"
+      ],
+      "total_vote_stations": 271,
+      "registered_vote": 139306
+    },
+    {
+      "cons_id": "NBP_2",
+      "cons_no": 2,
+      "prov_id": "NBP",
+      "zone": [
+        "อำเภอโนนสัง (ยกเว้นบ้านถิ่น กุดดู่ บ้านค้อ ปางกู่ โนนสัง)",
+        "อำเภอศรีบุญเรือง",
+        "อำเภอนาวัง (ยกเว้นวังปลาป้อม)"
+      ],
+      "total_vote_stations": 271,
+      "registered_vote": 136024
+    },
+    {
+      "cons_id": "NBP_3",
+      "cons_no": 3,
+      "prov_id": "NBP",
+      "zone": [
+        "อำเภอนากลาง",
+        "อำเภอสุวรรณคูหา",
+        "อำเภอนาวัง (เฉพาะวังปลาป้อม)"
+      ],
+      "total_vote_stations": 264,
+      "registered_vote": 133312
+    },
+    {
+      "cons_id": "KKN_1",
+      "cons_no": 1,
+      "prov_id": "KKN",
+      "zone": [
+        "อำเภอเมืองขอนแก่น (เฉพาะพระลับ เมืองเก่า ในเมือง)"
+      ],
+      "total_vote_stations": 179,
+      "registered_vote": 128250
+    },
+    {
+      "cons_id": "KKN_2",
+      "cons_no": 2,
+      "prov_id": "KKN",
+      "zone": [
+        "อำเภอเมืองขอนแก่น (เฉพาะสำราญ โคกสี แดงใหญ่ บึงเนียม ศิลา หนองตูม สาวะถี บ้านเป็ด)"
+      ],
+      "total_vote_stations": 179,
+      "registered_vote": 138811
+    },
+    {
+      "cons_id": "KKN_3",
+      "cons_no": 3,
+      "prov_id": "KKN",
+      "zone": [
+        "อำเภอน้ำพอง (เฉพาะบัวใหญ่ บ้านขาม บัวเงิน ทรายมูล พังทุย)",
+        "อำเภอกระนวน",
+        "อำเภอเขาสวนกวาง (เฉพาะเขาสวนกวาง คำม่วง)",
+        "อำเภอซำสูง"
+      ],
+      "total_vote_stations": 266,
+      "registered_vote": 132197
+    },
+    {
+      "cons_id": "KKN_4",
+      "cons_no": 4,
+      "prov_id": "KKN",
+      "zone": [
+        "อำเภอน้ำพอง (ยกเว้นบัวใหญ่ บ้านขาม บัวเงิน ทรายมูล พังทุย)",
+        "อำเภออุบลรัตน์",
+        "อำเภอเขาสวนกวาง (ยกเว้นเขาสวนกวาง คำม่วง)",
+        "อำเภอเมืองขอนแก่น (เฉพาะโนนท่อน บ้านค้อ)"
+      ],
+      "total_vote_stations": 256,
+      "registered_vote": 130881
+    },
+    {
+      "cons_id": "KKN_5",
+      "cons_no": 5,
+      "prov_id": "KKN",
+      "zone": [
+        "อำเภอสีชมพู (ยกเว้นนาจาน ซำยาง)",
+        "อำเภอภูเวียง (ยกเว้นกุดขอนแก่น หนองกุงเซิน)",
+        "อำเภอหนองนาคำ",
+        "อำเภอเวียงเก่า"
+      ],
+      "total_vote_stations": 266,
+      "registered_vote": 131801
+    },
+    {
+      "cons_id": "KKN_6",
+      "cons_no": 6,
+      "prov_id": "KKN",
+      "zone": [
+        "อำเภอชุมแพ",
+        "อำเภอสีชมพู (เฉพาะนาจาน ซำยาง)",
+        "อำเภอภูผาม่าน"
+      ],
+      "total_vote_stations": 257,
+      "registered_vote": 129906
+    },
+    {
+      "cons_id": "KKN_7",
+      "cons_no": 7,
+      "prov_id": "KKN",
+      "zone": [
+        "อำเภอบ้านฝาง",
+        "อำเภอหนองเรือ",
+        "อำเภอภูเวียง (เฉพาะกุดขอนแก่น หนองกุงเซิน)"
+      ],
+      "total_vote_stations": 277,
+      "registered_vote": 132362
+    },
+    {
+      "cons_id": "KKN_8",
+      "cons_no": 8,
+      "prov_id": "KKN",
+      "zone": [
+        "อำเภอเมืองขอนแก่น (เฉพาะท่าพระ บ้านหว้า ดอนช้าง ดอนหัน บ้านทุ่ม)",
+        "อำเภอพระยืน",
+        "อำเภอมัญจาคีรี"
+      ],
+      "total_vote_stations": 257,
+      "registered_vote": 139634
+    },
+    {
+      "cons_id": "KKN_9",
+      "cons_no": 9,
+      "prov_id": "KKN",
+      "zone": [
+        "อำเภอพล",
+        "อำเภอแวงใหญ่",
+        "อำเภอแวงน้อย"
+      ],
+      "total_vote_stations": 285,
+      "registered_vote": 127326
+    },
+    {
+      "cons_id": "KKN_10",
+      "cons_no": 10,
+      "prov_id": "KKN",
+      "zone": [
+        "อำเภอเปือยน้อย",
+        "อำเภอหนองสองห้อง",
+        "อำเภอชนบท (เฉพาะวังแสง ห้วยแก ปอแดง)",
+        "อำเภอโคกโพธิ์ไชย",
+        "อำเภอโนนศิลา"
+      ],
+      "total_vote_stations": 309,
+      "registered_vote": 135705
+    },
+    {
+      "cons_id": "KKN_11",
+      "cons_no": 11,
+      "prov_id": "KKN",
+      "zone": [
+        "อำเภอบ้านไผ่",
+        "อำเภอชนบท (ยกเว้นวังแสง ห้วยแก ปอแดง)",
+        "อำเภอบ้านแฮด"
+      ],
+      "total_vote_stations": 267,
+      "registered_vote": 131498
+    },
+    {
+      "cons_id": "UDN_1",
+      "cons_no": 1,
+      "prov_id": "UDN",
+      "zone": [
+        "อำเภอเมืองอุดรธานี (เฉพาะหนองบัว นาดี บ้านเลื่อม หมากแข้ง)"
+      ],
+      "total_vote_stations": 224,
+      "registered_vote": 129255
+    },
+    {
+      "cons_id": "UDN_2",
+      "cons_no": 2,
+      "prov_id": "UDN",
+      "zone": [
+        "อำเภอเมืองอุดรธานี (เฉพาะบ้านตาด โนนสูง หมูม่น หนองนาคำ กุดสระ สามพร้าว นาข่า บ้านจั่น หนองขอนกว้าง นากว้าง)"
+      ],
+      "total_vote_stations": 205,
+      "registered_vote": 132878
+    },
+    {
+      "cons_id": "UDN_3",
+      "cons_no": 3,
+      "prov_id": "UDN",
+      "zone": [
+        "อำเภอเมืองอุดรธานี (เฉพาะบ้านขาว)",
+        "อำเภอเพ็ญ",
+        "อำเภอสร้างคอม"
+      ],
+      "total_vote_stations": 244,
+      "registered_vote": 125830
+    },
+    {
+      "cons_id": "UDN_4",
+      "cons_no": 4,
+      "prov_id": "UDN",
+      "zone": [
+        "อำเภอทุ่งฝน",
+        "อำเภอบ้านดุง"
+      ],
+      "total_vote_stations": 220,
+      "registered_vote": 126481
+    },
+    {
+      "cons_id": "UDN_5",
+      "cons_no": 5,
+      "prov_id": "UDN",
+      "zone": [
+        "อำเภอหนองหาน",
+        "อำเภอพิบูลย์รักษ์",
+        "อำเภอกู่แก้ว (ยกเว้นบ้านจีต โนนทองอินทร์)"
+      ],
+      "total_vote_stations": 230,
+      "registered_vote": 119089
+    },
+    {
+      "cons_id": "UDN_6",
+      "cons_no": 6,
+      "prov_id": "UDN",
+      "zone": [
+        "อำเภอไชยวาน",
+        "อำเภอศรีธาตุ",
+        "อำเภอวังสามหมอ",
+        "อำเภอกู่แก้ว (ยกเว้นค้อใหญ่ คอนสาย)"
+      ],
+      "total_vote_stations": 243,
+      "registered_vote": 126400
+    },
+    {
+      "cons_id": "UDN_7",
+      "cons_no": 7,
+      "prov_id": "UDN",
+      "zone": [
+        "อำเภอกุมภวาปี",
+        "อำเภอประจักษ์ศิลปาคม",
+        "อำเภอเมืองอุดรธานี (เฉพาะหนองไผ่)"
+      ],
+      "total_vote_stations": 242,
+      "registered_vote": 128249
+    },
+    {
+      "cons_id": "UDN_8",
+      "cons_no": 8,
+      "prov_id": "UDN",
+      "zone": [
+        "อำเภอเมืองอุดรธานี (เฉพาะหนองไฮ)",
+        "อำเภอหนองวัวซอ",
+        "อำเภอโนนสะอาด",
+        "อำเภอหนองแสง"
+      ],
+      "total_vote_stations": 221,
+      "registered_vote": 122696
+    },
+    {
+      "cons_id": "CMI_4",
+      "cons_no": 4,
+      "prov_id": "CMI",
+      "zone": [
+        "อำเภอแม่ริม (เฉพาะแม่สา ดอนแก้ว เหมืองแก้ว)",
+        "อำเภอสันทราย"
+      ],
+      "total_vote_stations": 243,
+      "registered_vote": 144798
+    },
+    {
+      "cons_id": "UDN_9",
+      "cons_no": 9,
+      "prov_id": "UDN",
+      "zone": [
+        "อำเภอเมืองอุดรธานี (เฉพาะนิคมสงเคราะห์ เชียงยืน เชียงพิณ โคกสะอาด)",
+        "อำเภอกุดจับ",
+        "อำเภอบ้านผือ (เฉพาะเขือน้ำ คำบง โนนทอง หนองหัวคู หนองแวง)"
+      ],
+      "total_vote_stations": 237,
+      "registered_vote": 124827
+    },
+    {
+      "cons_id": "UDN_10",
+      "cons_no": 10,
+      "prov_id": "UDN",
+      "zone": [
+        "อำเภอบ้านผือ (ยกเว้นเขือน้ำ คำบง โนนทอง หนองหัวคู หนองแวง)",
+        "อำเภอน้ำโสม",
+        "อำเภอนายูง"
+      ],
+      "total_vote_stations": 244,
+      "registered_vote": 123023
+    },
+    {
+      "cons_id": "LEI_1",
+      "cons_no": 1,
+      "prov_id": "LEI",
+      "zone": [
+        "อำเภอเมืองเลย",
+        "อำเภอเอราวัณ"
+      ],
+      "total_vote_stations": 228,
+      "registered_vote": 125703
+    },
+    {
+      "cons_id": "LEI_2",
+      "cons_no": 2,
+      "prov_id": "LEI",
+      "zone": [
+        "อำเภอวังสะพุง (เฉพาะหนองหญ้าปล้อง โคกขมิ้น ศรีสงคราม)",
+        "อำเภอภูกระดึง",
+        "อำเภอภูหลวง",
+        "อำเภอผาขาว",
+        "อำเภอหนองหิน"
+      ],
+      "total_vote_stations": 271,
+      "registered_vote": 132976
+    },
+    {
+      "cons_id": "LEI_3",
+      "cons_no": 3,
+      "prov_id": "LEI",
+      "zone": [
+        "อำเภอด่านซ้าย",
+        "อำเภอนาแห้ว",
+        "อำเภอภูเรือ",
+        "อำเภอวังสะพุง (ยกเว้นหนองหญ้าปล้อง โคกขมิ้น ศรีสงคราม)"
+      ],
+      "total_vote_stations": 293,
+      "registered_vote": 125561
+    },
+    {
+      "cons_id": "LEI_4",
+      "cons_no": 4,
+      "prov_id": "LEI",
+      "zone": [
+        "อำเภอนาด้วง",
+        "อำเภอเชียงคาน",
+        "อำเภอปากชม",
+        "อำเภอท่าลี่"
+      ],
+      "total_vote_stations": 258,
+      "registered_vote": 123891
+    },
+    {
+      "cons_id": "NKI_1",
+      "cons_no": 1,
+      "prov_id": "NKI",
+      "zone": [
+        "อำเภอเมืองหนองคาย (ยกเว้นพระธาตุบังพวน เวียงคุก)",
+        "อำเภอโพนพิสัย (เฉพาะทุ่งหลวง เหล่าต่างคำ สร้างนางขาว)",
+        "อำเภอสระใคร"
+      ],
+      "total_vote_stations": 297,
+      "registered_vote": 139496
+    },
+    {
+      "cons_id": "NKI_2",
+      "cons_no": 2,
+      "prov_id": "NKI",
+      "zone": [
+        "อำเภอโพนพิสัย (ยกเว้นทุ่งหลวง เหล่าต่างคำ สร้างนางขาว)",
+        "อำเภอเฝ้าไร่",
+        "อำเภอรัตนวาปี"
+      ],
+      "total_vote_stations": 282,
+      "registered_vote": 136455
+    },
+    {
+      "cons_id": "NKI_3",
+      "cons_no": 3,
+      "prov_id": "NKI",
+      "zone": [
+        "อำเภอเมืองหนองคาย (เฉพาะพระธาตุบังพวน เวียงคุก)",
+        "อำเภอท่าบ่อ",
+        "อำเภอศรีเชียงใหม่",
+        "อำเภอสังคม",
+        "อำเภอโพธิ์ตาก"
+      ],
+      "total_vote_stations": 263,
+      "registered_vote": 137516
+    },
+    {
+      "cons_id": "MKM_1",
+      "cons_no": 1,
+      "prov_id": "MKM",
+      "zone": [
+        "อำเภอเมืองมหาสารคาม"
+      ],
+      "total_vote_stations": 237,
+      "registered_vote": 123641
+    },
+    {
+      "cons_id": "MKM_2",
+      "cons_no": 2,
+      "prov_id": "MKM",
+      "zone": [
+        "อำเภอแกดำ",
+        "อำเภอบรบือ (เฉพาะหนองม่วง บัวมาศ ยาง)",
+        "อำเภอวาปีปทุม"
+      ],
+      "total_vote_stations": 334,
+      "registered_vote": 128380
+    },
+    {
+      "cons_id": "MKM_3",
+      "cons_no": 3,
+      "prov_id": "MKM",
+      "zone": [
+        "อำเภอพยัคฆภูมิพิสัย",
+        "อำเภอนาดูน",
+        "อำเภอยางสีสุราช"
+      ],
+      "total_vote_stations": 286,
+      "registered_vote": 130144
+    },
+    {
+      "cons_id": "MKM_4",
+      "cons_no": 4,
+      "prov_id": "MKM",
+      "zone": [
+        "อำเภอบรบือ (ยกเว้นหนองม่วง บัวมาศ ยาง)",
+        "อำเภอนาเชือก"
+      ],
+      "total_vote_stations": 292,
+      "registered_vote": 126010
+    },
+    {
+      "cons_id": "MKM_5",
+      "cons_no": 5,
+      "prov_id": "MKM",
+      "zone": [
+        "อำเภอโกสุมพิสัย",
+        "อำเภอกันทรวิชัย (เฉพาะเขวาใหญ่)",
+        "อำเภอกุดรัง"
+      ],
+      "total_vote_stations": 343,
+      "registered_vote": 133026
+    },
+    {
+      "cons_id": "MKM_6",
+      "cons_no": 6,
+      "prov_id": "MKM",
+      "zone": [
+        "อำเภอกันทรวิชัย (ยกเว้นเขวาใหญ่)",
+        "อำเภอเชียงยืน",
+        "อำเภอชื่นชม"
+      ],
+      "total_vote_stations": 305,
+      "registered_vote": 128307
+    },
+    {
+      "cons_id": "RET_1",
+      "cons_no": 1,
+      "prov_id": "RET",
+      "zone": [
+        "อำเภอเมืองร้อยเอ็ด"
+      ],
+      "total_vote_stations": 263,
+      "registered_vote": 126135
+    },
+    {
+      "cons_id": "RET_2",
+      "cons_no": 2,
+      "prov_id": "RET",
+      "zone": [
+        "อำเภอธวัชบุรี (เฉพาะธวัชบุรี หนองพอก มะอึ)",
+        "อำเภอโพนทอง (เฉพาะนาอุดม อุ่มเม่า คำนาดี)",
+        "อำเภอโพธิ์ชัย",
+        "อำเภอจังหาร",
+        "อำเภอเชียงขวัญ"
+      ],
+      "total_vote_stations": 366,
+      "registered_vote": 136719
+    },
+    {
+      "cons_id": "RET_3",
+      "cons_no": 3,
+      "prov_id": "RET",
+      "zone": [
+        "อำเภอโพนทอง (ยกเว้นนาอุดม โพธิ์ศรีสว่าง อุ่มเม่า คำนาดี โคกสูง)",
+        "อำเภอหนองพอก",
+        "อำเภอเมยวดี"
+      ],
+      "total_vote_stations": 302,
+      "registered_vote": 133017
+    },
+    {
+      "cons_id": "RET_4",
+      "cons_no": 4,
+      "prov_id": "RET",
+      "zone": [
+        "อำเภอธวัชบุรี (เฉพาะไพศาล บึงนคร ธงธานี)",
+        "อำเภอโพนทอง (เฉพาะโพธิ์ศรีสว่าง โคกสูง)",
+        "อำเภอเสลภูมิ",
+        "อำเภอทุ่งเขาหลวง (ยกเว้นเทอดไทย เหล่า)"
+      ],
+      "total_vote_stations": 333,
+      "registered_vote": 129528
+    },
+    {
+      "cons_id": "RET_5",
+      "cons_no": 5,
+      "prov_id": "RET",
+      "zone": [
+        "อำเภอธวัชบุรี (เฉพาะหนองไผ่ นิเวศน์ อุ่มเม้า)",
+        "อำเภอพนมไพร",
+        "อำเภออาจสามารถ (ยกเว้นโหรา หนองบัว ขี้เหล็ก บ้านดู่)",
+        "อำเภอหนองฮี (เฉพาะหนองฮี)",
+        "อำเภอทุ่งเขาหลวง (เฉพาะเทอดไทย เหล่า)"
+      ],
+      "total_vote_stations": 346,
+      "registered_vote": 133199
+    },
+    {
+      "cons_id": "RET_6",
+      "cons_no": 6,
+      "prov_id": "RET",
+      "zone": [
+        "อำเภอสุวรรณภูมิ",
+        "อำเภอโพนทราย",
+        "อำเภอหนองฮี (ยกเว้นหนองฮี)"
+      ],
+      "total_vote_stations": 300,
+      "registered_vote": 130129
+    },
+    {
+      "cons_id": "RET_7",
+      "cons_no": 7,
+      "prov_id": "RET",
+      "zone": [
+        "อำเภอเกษตรวิสัย",
+        "อำเภอปทุมรัตต์",
+        "อำเภอเมืองสรวง (ยกเว้นหนองผือ เมืองสรวง)"
+      ],
+      "total_vote_stations": 320,
+      "registered_vote": 134383
+    },
+    {
+      "cons_id": "CMI_5",
+      "cons_no": 5,
+      "prov_id": "CMI",
+      "zone": [
+        "อำเภอแม่แตง",
+        "อำเภอแม่ริม (ยกเว้นแม่สา ดอนแก้ว เหมืองแก้ว)",
+        "อำเภอสะเมิง",
+        "อำเภอกัลยาณิวัฒนา"
+      ],
+      "total_vote_stations": 296,
+      "registered_vote": 133219
+    },
+    {
+      "cons_id": "RET_8",
+      "cons_no": 8,
+      "prov_id": "RET",
+      "zone": [
+        "อำเภอจตุรพักตรพิมาน",
+        "อำเภอธวัชบุรี (เฉพาะเขวาทุ่ง เมืองน้อย ราชธานี)",
+        "อำเภออาจสามารถ (เฉพาะโหรา หนองบัว ขี้เหล็ก บ้านดู่)",
+        "อำเภอศรีสมเด็จ",
+        "อำเภอเมืองสรวง (เฉพาะหนองผือ เมืองสรวง)"
+      ],
+      "total_vote_stations": 341,
+      "registered_vote": 131264
+    },
+    {
+      "cons_id": "KSN_1",
+      "cons_no": 1,
+      "prov_id": "KSN",
+      "zone": [
+        "อำเภอเมืองกาฬสินธุ์",
+        "อำเภอนามน (เฉพาะยอดแกง)",
+        "อำเภอสมเด็จ (เฉพาะหนองแวง)"
+      ],
+      "total_vote_stations": 284,
+      "registered_vote": 131448
+    },
+    {
+      "cons_id": "KSN_2",
+      "cons_no": 2,
+      "prov_id": "KSN",
+      "zone": [
+        "อำเภอยางตลาด",
+        "อำเภอฆ้องชัย"
+      ],
+      "total_vote_stations": 265,
+      "registered_vote": 126190
+    },
+    {
+      "cons_id": "KSN_3",
+      "cons_no": 3,
+      "prov_id": "KSN",
+      "zone": [
+        "อำเภอห้วยเม็ก",
+        "อำเภอท่าคันโท",
+        "อำเภอหนองกุงศรี"
+      ],
+      "total_vote_stations": 267,
+      "registered_vote": 124254
+    },
+    {
+      "cons_id": "KSN_4",
+      "cons_no": 4,
+      "prov_id": "KSN",
+      "zone": [
+        "อำเภอสหัสขันธ์",
+        "อำเภอคำม่วง",
+        "อำเภอสมเด็จ (ยกเว้นหนองแวง)",
+        "อำเภอสามชัย"
+      ],
+      "total_vote_stations": 310,
+      "registered_vote": 136372
+    },
+    {
+      "cons_id": "KSN_5",
+      "cons_no": 5,
+      "prov_id": "KSN",
+      "zone": [
+        "อำเภอนามน (ยกเว้นยอดแกง)",
+        "อำเภอกมลาไสย",
+        "อำเภอร่องคำ",
+        "อำเภอห้วยผึ้ง",
+        "อำเภอดอนจาน"
+      ],
+      "total_vote_stations": 291,
+      "registered_vote": 137298
+    },
+    {
+      "cons_id": "KSN_6",
+      "cons_no": 6,
+      "prov_id": "KSN",
+      "zone": [
+        "อำเภอกุฉินารายณ์",
+        "อำเภอเขาวง",
+        "อำเภอนาคู"
+      ],
+      "total_vote_stations": 294,
+      "registered_vote": 135642
+    },
+    {
+      "cons_id": "SNK_1",
+      "cons_no": 1,
+      "prov_id": "SNK",
+      "zone": [
+        "อำเภอเมืองสกลนคร (ยกเว้นโนนหอม ม่วงลาย ดงชน หนองลาด โคกก่อง)"
+      ],
+      "total_vote_stations": 234,
+      "registered_vote": 133910
+    },
+    {
+      "cons_id": "SNK_2",
+      "cons_no": 2,
+      "prov_id": "SNK",
+      "zone": [
+        "อำเภอเมืองสกลนคร (เฉพาะโนนหอม ม่วงลาย ดงชน โคกก่อง)",
+        "อำเภอกุสุมาลย์",
+        "อำเภอเต่างอย",
+        "อำเภอโคกศรีสุพรรณ",
+        "อำเภอโพนนาแก้ว"
+      ],
+      "total_vote_stations": 259,
+      "registered_vote": 131926
+    },
+    {
+      "cons_id": "SNK_3",
+      "cons_no": 3,
+      "prov_id": "SNK",
+      "zone": [
+        "อำเภอเมืองสกลนคร (เฉพาะหนองลาด)",
+        "อำเภอพรรณานิคม",
+        "อำเภอวานรนิวาส (เฉพาะนาซอ)",
+        "อำเภออากาศอำนวย"
+      ],
+      "total_vote_stations": 260,
+      "registered_vote": 134035
+    },
+    {
+      "cons_id": "SNK_4",
+      "cons_no": 4,
+      "prov_id": "SNK",
+      "zone": [
+        "อำเภอกุดบาก",
+        "อำเภอวาริชภูมิ",
+        "อำเภอนิคมน้ำอูน",
+        "อำเภอส่องดาว (ยกเว้นท่าศิลา)",
+        "อำเภอภูพาน"
+      ],
+      "total_vote_stations": 255,
+      "registered_vote": 128385
+    },
+    {
+      "cons_id": "SNK_5",
+      "cons_no": 5,
+      "prov_id": "SNK",
+      "zone": [
+        "อำเภอสว่างแดนดิน",
+        "อำเภอส่องดาว (เฉพาะท่าศิลา)"
+      ],
+      "total_vote_stations": 227,
+      "registered_vote": 129748
+    },
+    {
+      "cons_id": "SNK_6",
+      "cons_no": 6,
+      "prov_id": "SNK",
+      "zone": [
+        "อำเภอพังโคน",
+        "อำเภอวานรนิวาส (เฉพาะเดื่อศรีคันไชย ขัวก่าย หนองสนม ธาตุ ศรีวิชัย คอนสวรรค์)",
+        "อำเภอเจริญศิลป์"
+      ],
+      "total_vote_stations": 237,
+      "registered_vote": 130056
+    },
+    {
+      "cons_id": "SNK_7",
+      "cons_no": 7,
+      "prov_id": "SNK",
+      "zone": [
+        "อำเภอวานรนิวาส (ยกเว้นเดื่อศรีคันไชย ขัวก่าย หนองสนม ธาตุ ศรีวิชัย นาซอ คอนสวรรค์)",
+        "อำเภอคำตากล้า",
+        "อำเภอบ้านม่วง"
+      ],
+      "total_vote_stations": 252,
+      "registered_vote": 131937
+    },
+    {
+      "cons_id": "NPM_1",
+      "cons_no": 1,
+      "prov_id": "NPM",
+      "zone": [
+        "อำเภอบ้านแพง",
+        "อำเภอศรีสงคราม",
+        "อำเภอนาหว้า",
+        "อำเภอนาทม"
+      ],
+      "total_vote_stations": 289,
+      "registered_vote": 143587
+    },
+    {
+      "cons_id": "NPM_2",
+      "cons_no": 2,
+      "prov_id": "NPM",
+      "zone": [
+        "อำเภอเมืองนครพนม (เฉพาะนาราชควาย อาจสามารถ ท่าค้อ หนองญาติ ในเมือง หนองแสง)",
+        "อำเภอท่าอุเทน",
+        "อำเภอโพนสวรรค์"
+      ],
+      "total_vote_stations": 296,
+      "registered_vote": 142901
+    },
+    {
+      "cons_id": "NPM_3",
+      "cons_no": 3,
+      "prov_id": "NPM",
+      "zone": [
+        "อำเภอเมืองนครพนม (เฉพาะนาทราย ขามเฒ่า บ้านกลาง คำเตย ดงขวาง โพธิ์ตาก)",
+        "อำเภอธาตุพนม",
+        "อำเภอเรณูนคร"
+      ],
+      "total_vote_stations": 293,
+      "registered_vote": 142411
+    },
+    {
+      "cons_id": "NPM_4",
+      "cons_no": 4,
+      "prov_id": "NPM",
+      "zone": [
+        "อำเภอเมืองนครพนม (เฉพาะกุรุคุ บ้านผึ้ง วังตามัว)",
+        "อำเภอปลาปาก",
+        "อำเภอนาแก",
+        "อำเภอวังยาง"
+      ],
+      "total_vote_stations": 317,
+      "registered_vote": 144796
+    },
+    {
+      "cons_id": "MDH_1",
+      "cons_no": 1,
+      "prov_id": "MDH",
+      "zone": [
+        "อำเภอเมืองมุกดาหาร (ยกเว้นผึ่งแดด นาโสก ดงมอน)",
+        "อำเภอดอนตาล",
+        "อำเภอหว้านใหญ่"
+      ],
+      "total_vote_stations": 287,
+      "registered_vote": 141841
+    },
+    {
+      "cons_id": "MDH_2",
+      "cons_no": 2,
+      "prov_id": "MDH",
+      "zone": [
+        "อำเภอเมืองมุกดาหาร (เฉพาะผึ่งแดด นาโสก ดงมอน)",
+        "อำเภอนิคมคำสร้อย",
+        "อำเภอดงหลวง",
+        "อำเภอคำชะอี",
+        "อำเภอหนองสูง"
+      ],
+      "total_vote_stations": 332,
+      "registered_vote": 138498
+    },
+    {
+      "cons_id": "CMI_1",
+      "cons_no": 1,
+      "prov_id": "CMI",
+      "zone": [
+        "อำเภอเมืองเชียงใหม่ (ยกเว้นหนองหอย ท่าศาลา หนองป่าครั่ง วัดเกต)"
+      ],
+      "total_vote_stations": 235,
+      "registered_vote": 137793
+    },
+    {
+      "cons_id": "CMI_2",
+      "cons_no": 2,
+      "prov_id": "CMI",
+      "zone": [
+        "อำเภอสันกำแพง (เฉพาะแช่ช้าง สันกลาง บวกค้าง)",
+        "อำเภอสารภี",
+        "อำเภอเมืองเชียงใหม่ (เฉพาะหนองหอย ท่าศาลา หนองป่าครั่ง วัดเกต)"
+      ],
+      "total_vote_stations": 284,
+      "registered_vote": 143760
+    },
+    {
+      "cons_id": "CMI_3",
+      "cons_no": 3,
+      "prov_id": "CMI",
+      "zone": [
+        "อำเภอดอยสะเก็ด",
+        "อำเภอสันกำแพง (ยกเว้นแช่ช้าง สันกลาง บวกค้าง)",
+        "อำเภอแม่ออน"
+      ],
+      "total_vote_stations": 292,
+      "registered_vote": 139193
+    },
+    {
+      "cons_id": "CMI_6",
+      "cons_no": 6,
+      "prov_id": "CMI",
+      "zone": [
+        "อำเภอเชียงดาว",
+        "อำเภอพร้าว",
+        "อำเภอเวียงแหง",
+        "อำเภอไชยปราการ (ยกเว้นแม่ทะลบ ปงตำ)"
+      ],
+      "total_vote_stations": 290,
+      "registered_vote": 127380
+    },
+    {
+      "cons_id": "CMI_7",
+      "cons_no": 7,
+      "prov_id": "CMI",
+      "zone": [
+        "อำเภอฝาง",
+        "อำเภอแม่อาย",
+        "อำเภอไชยปราการ (ยกเว้นศรีดงเย็น หนองบัว)"
+      ],
+      "total_vote_stations": 290,
+      "registered_vote": 132908
+    },
+    {
+      "cons_id": "CMI_8",
+      "cons_no": 8,
+      "prov_id": "CMI",
+      "zone": [
+        "อำเภอสันป่าตอง",
+        "อำเภอหางดง"
+      ],
+      "total_vote_stations": 327,
+      "registered_vote": 141140
+    },
+    {
+      "cons_id": "CMI_9",
+      "cons_no": 9,
+      "prov_id": "CMI",
+      "zone": [
+        "อำเภอจอมทอง",
+        "อำเภอแม่แจ่ม (เฉพาะช่างเคิ่ง แม่ศึก แม่นาจร)",
+        "อำเภอแม่วาง",
+        "อำเภอดอยหล่อ"
+      ],
+      "total_vote_stations": 294,
+      "registered_vote": 126155
+    },
+    {
+      "cons_id": "CMI_10",
+      "cons_no": 10,
+      "prov_id": "CMI",
+      "zone": [
+        "อำเภอแม่แจ่ม (ยกเว้นช่างเคิ่ง แม่ศึก แม่นาจร)",
+        "อำเภอฮอด",
+        "อำเภอดอยเต่า",
+        "อำเภออมก๋อย"
+      ],
+      "total_vote_stations": 280,
+      "registered_vote": 121915
+    },
+    {
+      "cons_id": "LPN_1",
+      "cons_no": 1,
+      "prov_id": "LPN",
+      "zone": [
+        "อำเภอเมืองลำพูน",
+        "อำเภอแม่ทา",
+        "อำเภอบ้านธิ"
+      ],
+      "total_vote_stations": 335,
+      "registered_vote": 171262
+    },
+    {
+      "cons_id": "LPN_2",
+      "cons_no": 2,
+      "prov_id": "LPN",
+      "zone": [
+        "อำเภอบ้านโฮ่ง",
+        "อำเภอลี้",
+        "อำเภอทุ่งหัวช้าง",
+        "อำเภอป่าซาง",
+        "อำเภอเวียงหนองล่อง"
+      ],
+      "total_vote_stations": 373,
+      "registered_vote": 162629
+    },
+    {
+      "cons_id": "LPG_1",
+      "cons_no": 1,
+      "prov_id": "LPG",
+      "zone": [
+        "อำเภอเมืองลำปาง (ยกเว้นบ้านแลง บ้านเสด็จ กล้วยแพะ ปงแสนทอง)",
+        "อำเภอห้างฉัตร"
+      ],
+      "total_vote_stations": 293,
+      "registered_vote": 146326
+    },
+    {
+      "cons_id": "LPG_2",
+      "cons_no": 2,
+      "prov_id": "LPG",
+      "zone": [
+        "อำเภอเมืองลำปาง (เฉพาะบ้านแลง บ้านเสด็จ)",
+        "อำเภองาว",
+        "อำเภอแจ้ห่ม",
+        "อำเภอวังเหนือ",
+        "อำเภอเมืองปาน"
+      ],
+      "total_vote_stations": 346,
+      "registered_vote": 150940
+    },
+    {
+      "cons_id": "LPG_3",
+      "cons_no": 3,
+      "prov_id": "LPG",
+      "zone": [
+        "อำเภอเมืองลำปาง (เฉพาะพิชัย พระบาท ชมพู กล้วยแพะ ปงแสนทอง)",
+        "อำเภอแม่เมาะ",
+        "อำเภอแม่ทะ"
+      ],
+      "total_vote_stations": 278,
+      "registered_vote": 147220
+    },
+    {
+      "cons_id": "LPG_4",
+      "cons_no": 4,
+      "prov_id": "LPG",
+      "zone": [
+        "อำเภอเกาะคา",
+        "อำเภอเสริมงาม",
+        "อำเภอเถิน",
+        "อำเภอแม่พริก",
+        "อำเภอสบปราบ"
+      ],
+      "total_vote_stations": 337,
+      "registered_vote": 157791
+    },
+    {
+      "cons_id": "UTT_1",
+      "cons_no": 1,
+      "prov_id": "UTT",
+      "zone": [
+        "อำเภอเมืองอุตรดิตถ์"
+      ],
+      "total_vote_stations": 238,
+      "registered_vote": 118173
+    },
+    {
+      "cons_id": "UTT_2",
+      "cons_no": 2,
+      "prov_id": "UTT",
+      "zone": [
+        "อำเภอท่าปลา",
+        "อำเภอน้ำปาด",
+        "อำเภอฟากท่า",
+        "อำเภอบ้านโคก",
+        "อำเภอพิชัย (เฉพาะนาอิน นายาง)",
+        "อำเภอทองแสนขัน"
+      ],
+      "total_vote_stations": 290,
+      "registered_vote": 125041
+    },
+    {
+      "cons_id": "UTT_3",
+      "cons_no": 3,
+      "prov_id": "UTT",
+      "zone": [
+        "อำเภอตรอน",
+        "อำเภอพิชัย (ยกเว้นนาอิน นายาง)",
+        "อำเภอลับแล"
+      ],
+      "total_vote_stations": 249,
+      "registered_vote": 123483
+    },
+    {
+      "cons_id": "PRE_1",
+      "cons_no": 1,
+      "prov_id": "PRE",
+      "zone": [
+        "อำเภอเมืองแพร่ (ยกเว้นวังธง ห้วยม้า วังหงส์ ท่าข้าม แม่ยม แม่คำมี แม่หล่าย)",
+        "อำเภอสูงเม่น (ยกเว้นหัวฝาย บ้านปง)"
+      ],
+      "total_vote_stations": 257,
+      "registered_vote": 122115
+    },
+    {
+      "cons_id": "PRE_2",
+      "cons_no": 2,
+      "prov_id": "PRE",
+      "zone": [
+        "อำเภอเมืองแพร่ (เฉพาะวังธง ห้วยม้า วังหงส์ ท่าข้าม แม่ยม แม่คำมี แม่หล่าย)",
+        "อำเภอร้องกวาง",
+        "อำเภอสอง",
+        "อำเภอหนองม่วงไข่"
+      ],
+      "total_vote_stations": 279,
+      "registered_vote": 116303
+    },
+    {
+      "cons_id": "PRE_3",
+      "cons_no": 3,
+      "prov_id": "PRE",
+      "zone": [
+        "อำเภอลอง",
+        "อำเภอสูงเม่น (เฉพาะหัวฝาย บ้านปง)",
+        "อำเภอเด่นชัย",
+        "อำเภอวังชิ้น"
+      ],
+      "total_vote_stations": 263,
+      "registered_vote": 121732
+    },
+    {
+      "cons_id": "NAN_1",
+      "cons_no": 1,
+      "prov_id": "NAN",
+      "zone": [
+        "อำเภอเมืองน่าน",
+        "อำเภอท่าวังผา",
+        "อำเภอภูเพียง"
+      ],
+      "total_vote_stations": 300,
+      "registered_vote": 139889
+    },
+    {
+      "cons_id": "NAN_2",
+      "cons_no": 2,
+      "prov_id": "NAN",
+      "zone": [
+        "อำเภอแม่จริม",
+        "อำเภอบ้านหลวง",
+        "อำเภอนาน้อย",
+        "อำเภอเวียงสา",
+        "อำเภอนาหมื่น",
+        "อำเภอสันติสุข"
+      ],
+      "total_vote_stations": 352,
+      "registered_vote": 129646
+    },
+    {
+      "cons_id": "NAN_3",
+      "cons_no": 3,
+      "prov_id": "NAN",
+      "zone": [
+        "อำเภอปัว",
+        "อำเภอทุ่งช้าง",
+        "อำเภอเชียงกลาง",
+        "อำเภอบ่อเกลือ",
+        "อำเภอสองแคว",
+        "อำเภอเฉลิมพระเกียรติ (เฉพาะห้วยโก๋น ขุนน่าน)"
+      ],
+      "total_vote_stations": 302,
+      "registered_vote": 119741
+    },
+    {
+      "cons_id": "PYO_1",
+      "cons_no": 1,
+      "prov_id": "PYO",
+      "zone": [
+        "อำเภอเมืองพะเยา",
+        "อำเภอแม่ใจ"
+      ],
+      "total_vote_stations": 281,
+      "registered_vote": 124910
+    },
+    {
+      "cons_id": "PYO_2",
+      "cons_no": 2,
+      "prov_id": "PYO",
+      "zone": [
+        "อำเภอจุน",
+        "อำเภอเชียงคำ",
+        "อำเภอภูซาง"
+      ],
+      "total_vote_stations": 294,
+      "registered_vote": 127913
+    },
+    {
+      "cons_id": "PYO_3",
+      "cons_no": 3,
+      "prov_id": "PYO",
+      "zone": [
+        "อำเภอเชียงม่วน",
+        "อำเภอดอกคำใต้",
+        "อำเภอปง",
+        "อำเภอภูกามยาว"
+      ],
+      "total_vote_stations": 302,
+      "registered_vote": 130330
+    },
+    {
+      "cons_id": "CRI_1",
+      "cons_no": 1,
+      "prov_id": "CRI",
+      "zone": [
+        "อำเภอเมืองเชียงราย (ยกเว้นแม่ข้าวต้ม ห้วยสัก ดอยลาน ท่าสุด นางแล)"
+      ],
+      "total_vote_stations": 243,
+      "registered_vote": 141662
+    },
+    {
+      "cons_id": "CRI_2",
+      "cons_no": 2,
+      "prov_id": "CRI",
+      "zone": [
+        "อำเภอเมืองเชียงราย (เฉพาะแม่ข้าวต้ม ท่าสุด นางแล)",
+        "อำเภอเวียงชัย",
+        "อำเภอแม่จัน (เฉพาะแม่จัน สันทราย ท่าข้าวเปลือก ป่าตึง ป่าซาง)",
+        "อำเภอเวียงเชียงรุ้ง"
+      ],
+      "total_vote_stations": 266,
+      "registered_vote": 132701
+    },
+    {
+      "cons_id": "CRI_3",
+      "cons_no": 3,
+      "prov_id": "CRI",
+      "zone": [
+        "อำเภอแม่สรวย",
+        "อำเภอเวียงป่าเป้า",
+        "อำเภอแม่ลาว"
+      ],
+      "total_vote_stations": 325,
+      "registered_vote": 139926
+    },
+    {
+      "cons_id": "CRI_4",
+      "cons_no": 4,
+      "prov_id": "CRI",
+      "zone": [
+        "อำเภอเมืองเชียงราย (เฉพาะห้วยสัก ดอยลาน)",
+        "อำเภอพาน",
+        "อำเภอป่าแดด"
+      ],
+      "total_vote_stations": 369,
+      "registered_vote": 141667
+    },
+    {
+      "cons_id": "CRI_5",
+      "cons_no": 5,
+      "prov_id": "CRI",
+      "zone": [
+        "อำเภอเทิง",
+        "อำเภอพญาเม็งราย",
+        "อำเภอขุนตาล",
+        "อำเภอเชียงของ (เฉพาะบุญเรือง)"
+      ],
+      "total_vote_stations": 299,
+      "registered_vote": 132060
+    },
+    {
+      "cons_id": "CRI_6",
+      "cons_no": 6,
+      "prov_id": "CRI",
+      "zone": [
+        "อำเภอแม่จัน (เฉพาะแม่คำ แม่ไร่ ศรีค้ำ จอมสวรรค์)",
+        "อำเภอแม่สาย",
+        "อำเภอแม่ฟ้าหลวง"
+      ],
+      "total_vote_stations": 244,
+      "registered_vote": 126632
+    },
+    {
+      "cons_id": "CRI_7",
+      "cons_no": 7,
+      "prov_id": "CRI",
+      "zone": [
+        "อำเภอเชียงของ (ยกเว้นบุญเรือง)",
+        "อำเภอเชียงแสน",
+        "อำเภอเวียงแก่น",
+        "อำเภอดอยหลวง",
+        "อำเภอแม่จัน (เฉพาะจันจว้า จันจว้าใต้)"
+      ],
+      "total_vote_stations": 298,
+      "registered_vote": 134341
+    },
+    {
+      "cons_id": "MSN_1",
+      "cons_no": 1,
+      "prov_id": "MSN",
+      "zone": [
+        "อำเภอเมืองแม่ฮ่องสอน",
+        "อำเภอขุนยวม",
+        "อำเภอปาย",
+        "อำเภอปางมะผ้า"
+      ],
+      "total_vote_stations": 244,
+      "registered_vote": 89158
+    },
+    {
+      "cons_id": "MSN_2",
+      "cons_no": 2,
+      "prov_id": "MSN",
+      "zone": [
+        "อำเภอแม่สะเรียง",
+        "อำเภอแม่ลาน้อย",
+        "อำเภอสบเมย"
+      ],
+      "total_vote_stations": 230,
+      "registered_vote": 96014
+    },
+    {
+      "cons_id": "NSN_1",
+      "cons_no": 1,
+      "prov_id": "NSN",
+      "zone": [
+        "อำเภอเมืองนครสวรรค์ (ยกเว้นบ้านแก่ง พระนอน หนองกรด หนองกระโดน หนองปลิง)"
+      ],
+      "total_vote_stations": 233,
+      "registered_vote": 138721
+    },
+    {
+      "cons_id": "NSN_2",
+      "cons_no": 2,
+      "prov_id": "NSN",
+      "zone": [
+        "อำเภอเมืองนครสวรรค์ (เฉพาะบ้านแก่ง พระนอน หนองกรด หนองกระโดน หนองปลิง)",
+        "อำเภอโกรกพระ",
+        "อำเภอพยุหะคีรี"
+      ],
+      "total_vote_stations": 274,
+      "registered_vote": 137003
+    },
+    {
+      "cons_id": "NSN_3",
+      "cons_no": 3,
+      "prov_id": "NSN",
+      "zone": [
+        "อำเภอชุมแสง",
+        "อำเภอบรรพตพิสัย",
+        "อำเภอเก้าเลี้ยว"
+      ],
+      "total_vote_stations": 310,
+      "registered_vote": 146633
+    },
+    {
+      "cons_id": "NSN_4",
+      "cons_no": 4,
+      "prov_id": "NSN",
+      "zone": [
+        "อำเภอหนองบัว",
+        "อำเภอท่าตะโก",
+        "อำเภอไพศาลี (ยกเว้นสำโรงชัย ตะคร้อ โพธิ์ประสาท)"
+      ],
+      "total_vote_stations": 284,
+      "registered_vote": 139645
+    },
+    {
+      "cons_id": "NSN_5",
+      "cons_no": 5,
+      "prov_id": "NSN",
+      "zone": [
+        "อำเภอตาคลี",
+        "อำเภอไพศาลี (เฉพาะสำโรงชัย ตะคร้อ โพธิ์ประสาท)",
+        "อำเภอตากฟ้า"
+      ],
+      "total_vote_stations": 292,
+      "registered_vote": 139426
+    },
+    {
+      "cons_id": "NSN_6",
+      "cons_no": 6,
+      "prov_id": "NSN",
+      "zone": [
+        "อำเภอลาดยาว",
+        "อำเภอแม่วงก์",
+        "อำเภอแม่เปิน",
+        "อำเภอชุมตาบง"
+      ],
+      "total_vote_stations": 262,
+      "registered_vote": 136823
+    },
+    {
+      "cons_id": "UTI_1",
+      "cons_no": 1,
+      "prov_id": "UTI",
+      "zone": [
+        "อำเภอเมืองอุทัยธานี",
+        "อำเภอทัพทัน",
+        "อำเภอสว่างอารมณ์",
+        "อำเภอหนองฉาง (ยกเว้นทุ่งโพ เขากวางทอง เขาบางแกรก)",
+        "อำเภอหนองขาหย่าง"
+      ],
+      "total_vote_stations": 342,
+      "registered_vote": 127283
+    },
+    {
+      "cons_id": "UTI_2",
+      "cons_no": 2,
+      "prov_id": "UTI",
+      "zone": [
+        "อำเภอหนองฉาง (เฉพาะทุ่งโพ เขากวางทอง เขาบางแกรก)",
+        "อำเภอบ้านไร่",
+        "อำเภอลานสัก",
+        "อำเภอห้วยคต"
+      ],
+      "total_vote_stations": 311,
+      "registered_vote": 134558
+    },
+    {
+      "cons_id": "KPT_1",
+      "cons_no": 1,
+      "prov_id": "KPT",
+      "zone": [
+        "อำเภอเมืองกำแพงเพชร (ยกเว้นไตรตรึงษ์ สระแก้ว)"
+      ],
+      "total_vote_stations": 278,
+      "registered_vote": 145121
+    },
+    {
+      "cons_id": "KPT_2",
+      "cons_no": 2,
+      "prov_id": "KPT",
+      "zone": [
+        "อำเภอเมืองกำแพงเพชร (เฉพาะสระแก้ว)",
+        "อำเภอไทรงาม (ยกเว้นไทรงาม หนองไม้กอง หนองแม่แตง)",
+        "อำเภอพรานกระต่าย",
+        "อำเภอลานกระบือ",
+        "อำเภอโกสัมพีนคร"
+      ],
+      "total_vote_stations": 322,
+      "registered_vote": 147920
+    },
+    {
+      "cons_id": "KPT_3",
+      "cons_no": 3,
+      "prov_id": "KPT",
+      "zone": [
+        "อำเภอเมืองกำแพงเพชร (เฉพาะไตรตรึงษ์)",
+        "อำเภอคลองลาน",
+        "อำเภอคลองขลุง",
+        "อำเภอปางศิลาทอง"
+      ],
+      "total_vote_stations": 285,
+      "registered_vote": 137789
+    },
+    {
+      "cons_id": "KPT_4",
+      "cons_no": 4,
+      "prov_id": "KPT",
+      "zone": [
+        "อำเภอไทรงาม (เฉพาะไทรงาม หนองไม้กอง หนองแม่แตง)",
+        "อำเภอขาณุวรลักษบุรี",
+        "อำเภอทรายทองวัฒนา",
+        "อำเภอบึงสามัคคี"
+      ],
+      "total_vote_stations": 303,
+      "registered_vote": 138876
+    },
+    {
+      "cons_id": "TAK_1",
+      "cons_no": 1,
+      "prov_id": "TAK",
+      "zone": [
+        "อำเภอเมืองตาก",
+        "อำเภอบ้านตาก (เฉพาะตากออก สมอโคน แม่สลิด)",
+        "อำเภอสามเงา",
+        "อำเภอวังเจ้า"
+      ],
+      "total_vote_stations": 274,
+      "registered_vote": 150617
+    },
+    {
+      "cons_id": "TAK_2",
+      "cons_no": 2,
+      "prov_id": "TAK",
+      "zone": [
+        "อำเภอแม่สอด (ยกเว้นแม่กาษา ท่าสายลวด แม่ปะ)",
+        "อำเภอพบพระ",
+        "อำเภออุ้มผาง"
+      ],
+      "total_vote_stations": 202,
+      "registered_vote": 129817
+    },
+    {
+      "cons_id": "TAK_3",
+      "cons_no": 3,
+      "prov_id": "TAK",
+      "zone": [
+        "อำเภอบ้านตาก (ยกเว้นตากออก สมอโคน แม่สลิด)",
+        "อำเภอแม่ระมาด",
+        "อำเภอท่าสองยาง",
+        "อำเภอแม่สอด (เฉพาะแม่กาษา ท่าสายลวด แม่ปะ)"
+      ],
+      "total_vote_stations": 234,
+      "registered_vote": 134880
+    },
+    {
+      "cons_id": "STI_1",
+      "cons_no": 1,
+      "prov_id": "STI",
+      "zone": [
+        "อำเภอเมืองสุโขทัย (ยกเว้นเมืองเก่า วังทองแดง)",
+        "อำเภอกงไกรลาศ (เฉพาะไกรกลาง ไกรใน กกแรต บ้านใหม่สุขเกษม)",
+        "อำเภอศรีสำโรง (ยกเว้นนาขุนไกร วัดเกาะ บ้านไร่ บ้านซ่าน ราวต้นจันทร์)"
+      ],
+      "total_vote_stations": 248,
+      "registered_vote": 118292
+    },
+    {
+      "cons_id": "STI_2",
+      "cons_no": 2,
+      "prov_id": "STI",
+      "zone": [
+        "อำเภอบ้านด่านลานหอย",
+        "อำเภอคีรีมาศ",
+        "อำเภอกงไกรลาศ (ยกเว้นไกรกลาง ไกรใน กกแรต บ้านใหม่สุขเกษม)"
+      ],
+      "total_vote_stations": 257,
+      "registered_vote": 118323
+    },
+    {
+      "cons_id": "STI_3",
+      "cons_no": 3,
+      "prov_id": "STI",
+      "zone": [
+        "อำเภอเมืองสุโขทัย (เฉพาะเมืองเก่า วังทองแดง)",
+        "อำเภอศรีสำโรง (เฉพาะนาขุนไกร วัดเกาะ บ้านไร่ บ้านซ่าน ราวต้นจันทร์)",
+        "อำเภอสวรรคโลก (ยกเว้นคลองยาง ปากน้ำ ในเมือง ป่ากุมเกาะ)",
+        "อำเภอทุ่งเสลี่ยม"
+      ],
+      "total_vote_stations": 242,
+      "registered_vote": 120591
+    },
+    {
+      "cons_id": "STI_4",
+      "cons_no": 4,
+      "prov_id": "STI",
+      "zone": [
+        "อำเภอศรีสัชนาลัย",
+        "อำเภอสวรรคโลก (เฉพาะคลองยาง ปากน้ำ ในเมือง ป่ากุมเกาะ)",
+        "อำเภอศรีนคร"
+      ],
+      "total_vote_stations": 255,
+      "registered_vote": 120291
+    },
+    {
+      "cons_id": "PLK_1",
+      "cons_no": 1,
+      "prov_id": "PLK",
+      "zone": [
+        "อำเภอเมืองพิษณุโลก (เฉพาะวังน้ำคู้ วัดจันทร์ วัดพริก ท่าทอง บ้านคลอง บึงพระ อรัญญิก พลายชุมพล ในเมือง)"
+      ],
+      "total_vote_stations": 221,
+      "registered_vote": 139505
+    },
+    {
+      "cons_id": "PLK_2",
+      "cons_no": 2,
+      "prov_id": "PLK",
+      "zone": [
+        "อำเภอเมืองพิษณุโลก (เฉพาะสมอแข ดอนทอง บ้านป่า ปากโทก หัวรอ จอมทอง บ้านกร่าง มะขามสูง ไผ่ขอดอน)",
+        "อำเภอพรหมพิราม"
+      ],
+      "total_vote_stations": 285,
+      "registered_vote": 147454
+    },
+    {
+      "cons_id": "PLK_3",
+      "cons_no": 3,
+      "prov_id": "PLK",
+      "zone": [
+        "อำเภอวังทอง",
+        "อำเภอเนินมะปราง"
+      ],
+      "total_vote_stations": 277,
+      "registered_vote": 142882
+    },
+    {
+      "cons_id": "PLK_4",
+      "cons_no": 4,
+      "prov_id": "PLK",
+      "zone": [
+        "อำเภอเมืองพิษณุโลก (เฉพาะท่าโพธิ์ งิ้วงาม)",
+        "อำเภอบางระกำ",
+        "อำเภอบางกระทุ่ม"
+      ],
+      "total_vote_stations": 284,
+      "registered_vote": 128190
+    },
+    {
+      "cons_id": "PLK_5",
+      "cons_no": 5,
+      "prov_id": "PLK",
+      "zone": [
+        "อำเภอนครไทย",
+        "อำเภอชาติตระการ",
+        "อำเภอวัดโบสถ์"
+      ],
+      "total_vote_stations": 295,
+      "registered_vote": 132621
+    },
+    {
+      "cons_id": "PCT_1",
+      "cons_no": 1,
+      "prov_id": "PCT",
+      "zone": [
+        "อำเภอเมืองพิจิตร",
+        "อำเภอสามง่าม",
+        "อำเภอวชิรบารมี"
+      ],
+      "total_vote_stations": 308,
+      "registered_vote": 145533
+    },
+    {
+      "cons_id": "PCT_2",
+      "cons_no": 2,
+      "prov_id": "PCT",
+      "zone": [
+        "อำเภอวังทรายพูน",
+        "อำเภอตะพานหิน",
+        "อำเภอทับคล้อ",
+        "อำเภอสากเหล็ก",
+        "อำเภอดงเจริญ"
+      ],
+      "total_vote_stations": 356,
+      "registered_vote": 140346
+    },
+    {
+      "cons_id": "PCT_3",
+      "cons_no": 3,
+      "prov_id": "PCT",
+      "zone": [
+        "อำเภอโพธิ์ประทับช้าง",
+        "อำเภอบางมูลนาก",
+        "อำเภอโพทะเล",
+        "อำเภอบึงนาราง"
+      ],
+      "total_vote_stations": 358,
+      "registered_vote": 141664
+    },
+    {
+      "cons_id": "PNB_1",
+      "cons_no": 1,
+      "prov_id": "PNB",
+      "zone": [
+        "อำเภอเมืองเพชรบูรณ์ (ยกเว้นป่าเลา ท่าพล นางั่ว)"
+      ],
+      "total_vote_stations": 242,
+      "registered_vote": 131142
+    },
+    {
+      "cons_id": "PNB_2",
+      "cons_no": 2,
+      "prov_id": "PNB",
+      "zone": [
+        "อำเภอเมืองเพชรบูรณ์ (เฉพาะป่าเลา ท่าพล นางั่ว)",
+        "อำเภอหล่มสัก (ยกเว้นฝายนาแซง หนองสว่าง น้ำเฮี้ย สักหลง ท่าอิบุญ น้ำก้อ น้ำชุน บุ่งคล้า บุ่งน้ำเต้า)",
+        "อำเภอน้ำหนาว"
+      ],
+      "total_vote_stations": 291,
+      "registered_vote": 131081
+    },
+    {
+      "cons_id": "PNB_3",
+      "cons_no": 3,
+      "prov_id": "PNB",
+      "zone": [
+        "อำเภอหล่มสัก (เฉพาะฝายนาแซง หนองสว่าง น้ำเฮี้ย สักหลง ท่าอิบุญ น้ำก้อ น้ำชุน บุ่งคล้า บุ่งน้ำเต้า)",
+        "อำเภอหล่มเก่า",
+        "อำเภอเขาค้อ"
+      ],
+      "total_vote_stations": 299,
+      "registered_vote": 126659
+    },
+    {
+      "cons_id": "PNB_4",
+      "cons_no": 4,
+      "prov_id": "PNB",
+      "zone": [
+        "อำเภอชนแดน",
+        "อำเภอหนองไผ่ (เฉพาะห้วยโป่ง หนองไผ่ ยางงาม บัววัฒนา นาเฉลียง)",
+        "อำเภอวังโป่ง"
+      ],
+      "total_vote_stations": 296,
+      "registered_vote": 126127
+    },
+    {
+      "cons_id": "PNB_5",
+      "cons_no": 5,
+      "prov_id": "PNB",
+      "zone": [
+        "อำเภอวิเชียรบุรี (เฉพาะสามแยก โคกปรง บึงกระจับ ยางสาว)",
+        "อำเภอหนองไผ่ (ยกเว้นห้วยโป่ง หนองไผ่ ยางงาม บัววัฒนา นาเฉลียง)",
+        "อำเภอบึงสามพัน"
+      ],
+      "total_vote_stations": 287,
+      "registered_vote": 133038
+    },
+    {
+      "cons_id": "PNB_6",
+      "cons_no": 6,
+      "prov_id": "PNB",
+      "zone": [
+        "อำเภอวิเชียรบุรี (ยกเว้นสามแยก โคกปรง บึงกระจับ ยางสาว)",
+        "อำเภอศรีเทพ"
+      ],
+      "total_vote_stations": 316,
+      "registered_vote": 135294
+    },
+    {
+      "cons_id": "RBR_1",
+      "cons_no": 1,
+      "prov_id": "RBR",
+      "zone": [
+        "อำเภอเมืองราชบุรี (ยกเว้นห้วยไผ่ น้ำพุ ดอนแร่ อ่างทอง)"
+      ],
+      "total_vote_stations": 243,
+      "registered_vote": 140137
+    },
+    {
+      "cons_id": "RBR_2",
+      "cons_no": 2,
+      "prov_id": "RBR",
+      "zone": [
+        "อำเภอเมืองราชบุรี (เฉพาะห้วยไผ่ น้ำพุ ดอนแร่ อ่างทอง)",
+        "อำเภอสวนผึ้ง",
+        "อำเภอปากท่อ",
+        "อำเภอวัดเพลง",
+        "อำเภอบ้านคา"
+      ],
+      "total_vote_stations": 240,
+      "registered_vote": 136101
+    },
+    {
+      "cons_id": "RBR_3",
+      "cons_no": 3,
+      "prov_id": "RBR",
+      "zone": [
+        "อำเภอจอมบึง",
+        "อำเภอโพธาราม (ยกเว้นดอนทราย บ้านฆ้อง บ้านสิงห์)"
+      ],
+      "total_vote_stations": 247,
+      "registered_vote": 141093
+    },
+    {
+      "cons_id": "RBR_4",
+      "cons_no": 4,
+      "prov_id": "RBR",
+      "zone": [
+        "อำเภอบ้านโป่ง"
+      ],
+      "total_vote_stations": 210,
+      "registered_vote": 140248
+    },
+    {
+      "cons_id": "RBR_5",
+      "cons_no": 5,
+      "prov_id": "RBR",
+      "zone": [
+        "อำเภอดำเนินสะดวก",
+        "อำเภอบางแพ",
+        "อำเภอโพธาราม (เฉพาะดอนทราย บ้านฆ้อง บ้านสิงห์)"
+      ],
+      "total_vote_stations": 237,
+      "registered_vote": 133947
+    },
+    {
+      "cons_id": "KRI_1",
+      "cons_no": 1,
+      "prov_id": "KRI",
+      "zone": [
+        "อำเภอเมืองกาญจนบุรี (ยกเว้นบ้านเก่า)",
+        "อำเภอบ่อพลอย (เฉพาะหนองกุ่ม)"
+      ],
+      "total_vote_stations": 190,
+      "registered_vote": 133196
+    },
+    {
+      "cons_id": "KRI_2",
+      "cons_no": 2,
+      "prov_id": "KRI",
+      "zone": [
+        "อำเภอท่าม่วง",
+        "อำเภอพนมทวน (ยกเว้นพนมทวน พังตรุ ดอนตาเพชร รางหวาย)",
+        "อำเภอด่านมะขามเตี้ย"
+      ],
+      "total_vote_stations": 212,
+      "registered_vote": 131663
+    },
+    {
+      "cons_id": "KRI_3",
+      "cons_no": 3,
+      "prov_id": "KRI",
+      "zone": [
+        "อำเภอท่ามะกา",
+        "อำเภอพนมทวน (ยกเว้นหนองโรง ทุ่งสมอ ดอนเจดีย์ หนองสาหร่าย)"
+      ],
+      "total_vote_stations": 229,
+      "registered_vote": 136011
+    },
+    {
+      "cons_id": "KRI_4",
+      "cons_no": 4,
+      "prov_id": "KRI",
+      "zone": [
+        "อำเภอบ่อพลอย (ยกเว้นหนองกุ่ม)",
+        "อำเภอเลาขวัญ",
+        "อำเภอหนองปรือ",
+        "อำเภอห้วยกระเจา"
+      ],
+      "total_vote_stations": 270,
+      "registered_vote": 133796
+    },
+    {
+      "cons_id": "KRI_5",
+      "cons_no": 5,
+      "prov_id": "KRI",
+      "zone": [
+        "อำเภอเมืองกาญจนบุรี (เฉพาะบ้านเก่า)",
+        "อำเภอไทรโยค",
+        "อำเภอศรีสวัสดิ์",
+        "อำเภอทองผาภูมิ",
+        "อำเภอสังขละบุรี"
+      ],
+      "total_vote_stations": 197,
+      "registered_vote": 122620
+    },
+    {
+      "cons_id": "SPB_1",
+      "cons_no": 1,
+      "prov_id": "SPB",
+      "zone": [
+        "อำเภอเมืองสุพรรณบุรี"
+      ],
+      "total_vote_stations": 233,
+      "registered_vote": 135381
+    },
+    {
+      "cons_id": "SPB_2",
+      "cons_no": 2,
+      "prov_id": "SPB",
+      "zone": [
+        "อำเภอบางปลาม้า",
+        "อำเภอสองพี่น้อง (ยกเว้นทุ่งคอก หนองบ่อ บ่อสุพรรณ)"
+      ],
+      "total_vote_stations": 249,
+      "registered_vote": 129576
+    },
+    {
+      "cons_id": "SPB_3",
+      "cons_no": 3,
+      "prov_id": "SPB",
+      "zone": [
+        "อำเภอสองพี่น้อง (เฉพาะทุ่งคอก หนองบ่อ บ่อสุพรรณ)",
+        "อำเภออู่ทอง"
+      ],
+      "total_vote_stations": 262,
+      "registered_vote": 130523
+    },
+    {
+      "cons_id": "SPB_4",
+      "cons_no": 4,
+      "prov_id": "SPB",
+      "zone": [
+        "อำเภอเดิมบางนางบวช",
+        "อำเภอด่านช้าง",
+        "อำเภอหนองหญ้าไซ (ยกเว้นหนองหญ้าไซ หนองราชวัตร)"
+      ],
+      "total_vote_stations": 284,
+      "registered_vote": 137456
+    },
+    {
+      "cons_id": "SPB_5",
+      "cons_no": 5,
+      "prov_id": "SPB",
+      "zone": [
+        "อำเภอศรีประจันต์",
+        "อำเภอดอนเจดีย์",
+        "อำเภอสามชุก",
+        "อำเภอหนองหญ้าไซ (เฉพาะหนองหญ้าไซ หนองราชวัตร)"
+      ],
+      "total_vote_stations": 259,
+      "registered_vote": 144799
+    },
+    {
+      "cons_id": "NPT_1",
+      "cons_no": 1,
+      "prov_id": "NPT",
+      "zone": [
+        "อำเภอเมืองนครปฐม (เฉพาะบางแขม พระประโทน ธรรมศาลา ดอนยายหอม ถนนขาด สามควายเผือก หนองดินแดง วังเย็น สระกะเทียม สวนป่าน)",
+        "อำเภอสามพราน (เฉพาะหอมเกร็ด บางช้าง ท่าตลาด คลองใหม่ ตลาดจินดา คลองจินดา)"
+      ],
+      "total_vote_stations": 217,
+      "registered_vote": 129731
+    },
+    {
+      "cons_id": "NPT_2",
+      "cons_no": 2,
+      "prov_id": "NPT",
+      "zone": [
+        "อำเภอเมืองนครปฐม (เฉพาะสนามจันทร์ นครปฐม วังตะกู หนองปากโลง ทุ่งน้อย โพรงมะเดื่อ ลำพยา ห้วยจรเข้ บ้านยาง บ่อพลับ พระปฐมเจดีย์)"
+      ],
+      "total_vote_stations": 209,
+      "registered_vote": 120935
+    },
+    {
+      "cons_id": "NPT_3",
+      "cons_no": 3,
+      "prov_id": "NPT",
+      "zone": [
+        "อำเภอเมืองนครปฐม (เฉพาะตาก้อง มาบแค ทัพหลวง หนองงูเหลือม)",
+        "อำเภอกำแพงแสน (ยกเว้นสระพัฒนา ห้วยม่วง)"
+      ],
+      "total_vote_stations": 233,
+      "registered_vote": 119352
+    },
+    {
+      "cons_id": "NPT_4",
+      "cons_no": 4,
+      "prov_id": "NPT",
+      "zone": [
+        "อำเภอกำแพงแสน (เฉพาะสระพัฒนา ห้วยม่วง)",
+        "อำเภอดอนตูม",
+        "อำเภอบางเลน"
+      ],
+      "total_vote_stations": 250,
+      "registered_vote": 128771
+    },
+    {
+      "cons_id": "NPT_5",
+      "cons_no": 5,
+      "prov_id": "NPT",
+      "zone": [
+        "อำเภอนครชัยศรี",
+        "อำเภอพุทธมณฑล"
+      ],
+      "total_vote_stations": 200,
+      "registered_vote": 131195
+    },
+    {
+      "cons_id": "NPT_6",
+      "cons_no": 6,
+      "prov_id": "NPT",
+      "zone": [
+        "อำเภอสามพราน (ยกเว้นหอมเกร็ด บางช้าง ท่าตลาด คลองใหม่ ตลาดจินดา คลองจินดา)"
+      ],
+      "total_vote_stations": 190,
+      "registered_vote": 126887
+    },
+    {
+      "cons_id": "SKN_1",
+      "cons_no": 1,
+      "prov_id": "SKN",
+      "zone": [
+        "อำเภอเมืองสมุทรสาคร (เฉพาะท่าจีน คอกกระบือ บางน้ำจืด พันท้ายนรสิงห์ โคกขาม มหาชัย ท่าฉลอม โกรกกราก)"
+      ],
+      "total_vote_stations": 171,
+      "registered_vote": 119393
+    },
+    {
+      "cons_id": "SKN_2",
+      "cons_no": 2,
+      "prov_id": "SKN",
+      "zone": [
+        "อำเภอเมืองสมุทรสาคร (ยกเว้นท่าจีน คอกกระบือ บางน้ำจืด พันท้ายนรสิงห์ โคกขาม มหาชัย ท่าฉลอม โกรกกราก)"
+      ],
+      "total_vote_stations": 163,
+      "registered_vote": 119061
+    },
+    {
+      "cons_id": "SKN_3",
+      "cons_no": 3,
+      "prov_id": "SKN",
+      "zone": [
+        "อำเภอกระทุ่มแบน (ยกเว้นท่าไม้ บางยาง หนองนกไข่ ดอนไก่ดี ท่าเสา)"
+      ],
+      "total_vote_stations": 137,
+      "registered_vote": 111965
+    },
+    {
+      "cons_id": "SKN_4",
+      "cons_no": 4,
+      "prov_id": "SKN",
+      "zone": [
+        "อำเภอกระทุ่มแบน (ยกเว้นคลองมะเดื่อ แคราย สวนหลวง อ้อมน้อย ตลาดกระทุ่มแบน)",
+        "อำเภอบ้านแพ้ว"
+      ],
+      "total_vote_stations": 203,
+      "registered_vote": 112305
+    },
+    {
+      "cons_id": "SKM_1",
+      "cons_no": 1,
+      "prov_id": "SKM",
+      "zone": [
+        "อำเภอเมืองสมุทรสงคราม",
+        "อำเภอบางคนที",
+        "อำเภออัมพวา"
+      ],
+      "total_vote_stations": 268,
+      "registered_vote": 156265
+    },
+    {
+      "cons_id": "PBI_1",
+      "cons_no": 1,
+      "prov_id": "PBI",
+      "zone": [
+        "อำเภอเมืองเพชรบุรี",
+        "อำเภอบ้านแหลม (ยกเว้นบ้านแหลม บางตะบูน บางตะบูนออก)"
+      ],
+      "total_vote_stations": 240,
+      "registered_vote": 125505
+    },
+    {
+      "cons_id": "PBI_2",
+      "cons_no": 2,
+      "prov_id": "PBI",
+      "zone": [
+        "อำเภอชะอำ",
+        "อำเภอท่ายาง"
+      ],
+      "total_vote_stations": 255,
+      "registered_vote": 139326
+    },
+    {
+      "cons_id": "PBI_3",
+      "cons_no": 3,
+      "prov_id": "PBI",
+      "zone": [
+        "อำเภอเขาย้อย",
+        "อำเภอหนองหญ้าปล้อง",
+        "อำเภอบ้านลาด",
+        "อำเภอบ้านแหลม (เฉพาะบ้านแหลม บางตะบูน บางตะบูนออก)",
+        "อำเภอแก่งกระจาน"
+      ],
+      "total_vote_stations": 281,
+      "registered_vote": 131557
+    },
+    {
+      "cons_id": "PTN_1",
+      "cons_no": 1,
+      "prov_id": "PTN",
+      "zone": [
+        "อำเภอเมืองปัตตานี"
+      ],
+      "total_vote_stations": 159,
+      "registered_vote": 95605
+    },
+    {
+      "cons_id": "PKN_1",
+      "cons_no": 1,
+      "prov_id": "PKN",
+      "zone": [
+        "อำเภอเมืองประจวบคีรีขันธ์ (ยกเว้นห้วยทราย)",
+        "อำเภอกุยบุรี",
+        "อำเภอปราณบุรี (เฉพาะปากน้ำปราณ)",
+        "อำเภอสามร้อยยอด"
+      ],
+      "total_vote_stations": 257,
+      "registered_vote": 152840
+    },
+    {
+      "cons_id": "PKN_2",
+      "cons_no": 2,
+      "prov_id": "PKN",
+      "zone": [
+        "อำเภอปราณบุรี (ยกเว้นปากน้ำปราณ)",
+        "อำเภอหัวหิน"
+      ],
+      "total_vote_stations": 227,
+      "registered_vote": 146369
+    },
+    {
+      "cons_id": "PKN_3",
+      "cons_no": 3,
+      "prov_id": "PKN",
+      "zone": [
+        "อำเภอเมืองประจวบคีรีขันธ์ (เฉพาะห้วยทราย)",
+        "อำเภอทับสะแก",
+        "อำเภอบางสะพาน",
+        "อำเภอบางสะพานน้อย"
+      ],
+      "total_vote_stations": 257,
+      "registered_vote": 138975
+    },
+    {
+      "cons_id": "NST_1",
+      "cons_no": 1,
+      "prov_id": "NST",
+      "zone": [
+        "อำเภอเมืองนครศรีธรรมราช (ยกเว้นกำแพงเซา ไชยมนตรี มะม่วงสองต้น บางจาก ท่าเรือ ปากพูน)"
+      ],
+      "total_vote_stations": 223,
+      "registered_vote": 132977
+    },
+    {
+      "cons_id": "NST_2",
+      "cons_no": 2,
+      "prov_id": "NST",
+      "zone": [
+        "อำเภอเมืองนครศรีธรรมราช (เฉพาะท่าไร่ กำแพงเซา ไชยมนตรี มะม่วงสองต้น บางจาก ท่าเรือ)",
+        "อำเภอปากพนัง (ยกเว้นหูล่อง บางศาลา บางตะพง บ้านเพิง ท่าพยา ปากแพรก ขนาบนาก)",
+        "อำเภอพระพรหม"
+      ],
+      "total_vote_stations": 263,
+      "registered_vote": 141830
+    },
+    {
+      "cons_id": "NST_3",
+      "cons_no": 3,
+      "prov_id": "NST",
+      "zone": [
+        "อำเภอเชียรใหญ่",
+        "อำเภอปากพนัง (เฉพาะหูล่อง บางศาลา บางพระ บางตะพง บ้านเพิง ท่าพยา ปากแพรก ขนาบนาก)",
+        "อำเภอหัวไทร",
+        "อำเภอเฉลิมพระเกียรติ (เฉพาะเชียรเขา ดอนตรอ สวนหลวง ทางพูน)"
+      ],
+      "total_vote_stations": 323,
+      "registered_vote": 133623
+    },
+    {
+      "cons_id": "NST_4",
+      "cons_no": 4,
+      "prov_id": "NST",
+      "zone": [
+        "อำเภอชะอวด",
+        "อำเภอร่อนพิบูลย์ (ยกเว้นหินตก เสาธง)",
+        "อำเภอจุฬาภรณ์"
+      ],
+      "total_vote_stations": 232,
+      "registered_vote": 135857
+    },
+    {
+      "cons_id": "NST_5",
+      "cons_no": 5,
+      "prov_id": "NST",
+      "zone": [
+        "อำเภอทุ่งสง",
+        "อำเภอนาบอน (ยกเว้นทุ่งสง)"
+      ],
+      "total_vote_stations": 237,
+      "registered_vote": 140284
+    },
+    {
+      "cons_id": "NST_6",
+      "cons_no": 6,
+      "prov_id": "NST",
+      "zone": [
+        "อำเภอฉวาง (เฉพาะฉวาง ไม้เรียง กะเปียด นากะชะ)",
+        "อำเภอนาบอน (เฉพาะทุ่งสง)",
+        "อำเภอทุ่งใหญ่",
+        "อำเภอบางขัน",
+        "อำเภอถ้ำพรรณรา"
+      ],
+      "total_vote_stations": 250,
+      "registered_vote": 134534
+    },
+    {
+      "cons_id": "NST_7",
+      "cons_no": 7,
+      "prov_id": "NST",
+      "zone": [
+        "อำเภอลานสกา",
+        "อำเภอฉวาง (ยกเว้นฉวาง ไม้เรียง กะเปียด นากะชะ)",
+        "อำเภอพิปูน",
+        "อำเภอร่อนพิบูลย์ (เฉพาะหินตก เสาธง)",
+        "อำเภอช้างกลาง"
+      ],
+      "total_vote_stations": 262,
+      "registered_vote": 136717
+    },
+    {
+      "cons_id": "NST_8",
+      "cons_no": 8,
+      "prov_id": "NST",
+      "zone": [
+        "อำเภอพรหมคีรี",
+        "อำเภอท่าศาลา (เฉพาะท่าศาลา โมคลาน ดอนตะโก โพธิ์ทอง)",
+        "อำเภอนบพิตำ",
+        "อำเภอเมืองนครศรีธรรมราช (เฉพาะปากพูน)"
+      ],
+      "total_vote_stations": 230,
+      "registered_vote": 136225
+    },
+    {
+      "cons_id": "NST_9",
+      "cons_no": 9,
+      "prov_id": "NST",
+      "zone": [
+        "อำเภอท่าศาลา (ยกเว้นท่าศาลา โมคลาน ดอนตะโก โพธิ์ทอง)",
+        "อำเภอสิชล",
+        "อำเภอขนอม"
+      ],
+      "total_vote_stations": 262,
+      "registered_vote": 139759
+    },
+    {
+      "cons_id": "KBI_1",
+      "cons_no": 1,
+      "prov_id": "KBI",
+      "zone": [
+        "อำเภอเมืองกระบี่",
+        "อำเภอเหนือคลอง (ยกเว้นโคกยาง ปกาสัย ห้วยยูง)"
+      ],
+      "total_vote_stations": 215,
+      "registered_vote": 128642
+    },
+    {
+      "cons_id": "KBI_2",
+      "cons_no": 2,
+      "prov_id": "KBI",
+      "zone": [
+        "อำเภอเขาพนม",
+        "อำเภออ่าวลึก",
+        "อำเภอปลายพระยา"
+      ],
+      "total_vote_stations": 209,
+      "registered_vote": 117651
+    },
+    {
+      "cons_id": "KBI_3",
+      "cons_no": 3,
+      "prov_id": "KBI",
+      "zone": [
+        "อำเภอเกาะลันตา",
+        "อำเภอคลองท่อม",
+        "อำเภอลำทับ",
+        "อำเภอเหนือคลอง (เฉพาะโคกยาง ปกาสัย ห้วยยูง)"
+      ],
+      "total_vote_stations": 232,
+      "registered_vote": 124285
+    },
+    {
+      "cons_id": "PNA_1",
+      "cons_no": 1,
+      "prov_id": "PNA",
+      "zone": [
+        "อำเภอเมืองพังงา",
+        "อำเภอเกาะยาว",
+        "อำเภอตะกั่วทุ่ง",
+        "อำเภอทับปุด"
+      ],
+      "total_vote_stations": 205,
+      "registered_vote": 100343
+    },
+    {
+      "cons_id": "PNA_2",
+      "cons_no": 2,
+      "prov_id": "PNA",
+      "zone": [
+        "อำเภอกะปง",
+        "อำเภอตะกั่วป่า",
+        "อำเภอคุระบุรี",
+        "อำเภอท้ายเหมือง"
+      ],
+      "total_vote_stations": 191,
+      "registered_vote": 110773
+    },
+    {
+      "cons_id": "PKT_1",
+      "cons_no": 1,
+      "prov_id": "PKT",
+      "zone": [
+        "อำเภอเมืองภูเก็ต (ยกเว้นฉลอง วิชิต ราไวย์ กะรน)"
+      ],
+      "total_vote_stations": 147,
+      "registered_vote": 103980
+    },
+    {
+      "cons_id": "PKT_2",
+      "cons_no": 2,
+      "prov_id": "PKT",
+      "zone": [
+        "อำเภอเมืองภูเก็ต (ยกเว้นเกาะแก้ว รัษฎา ตลาดใหญ่ ตลาดเหนือ)",
+        "อำเภอกะทู้ (ยกเว้นกะทู้)"
+      ],
+      "total_vote_stations": 150,
+      "registered_vote": 108376
+    },
+    {
+      "cons_id": "PKT_3",
+      "cons_no": 3,
+      "prov_id": "PKT",
+      "zone": [
+        "อำเภอถลาง",
+        "อำเภอกะทู้ (เฉพาะกะทู้)"
+      ],
+      "total_vote_stations": 173,
+      "registered_vote": 117792
+    },
+    {
+      "cons_id": "SNI_1",
+      "cons_no": 1,
+      "prov_id": "SNI",
+      "zone": [
+        "อำเภอเมืองสุราษฎร์ธานี (ยกเว้นขุนทะเล วัดประดู่)"
+      ],
+      "total_vote_stations": 169,
+      "registered_vote": 117090
+    },
+    {
+      "cons_id": "SNI_2",
+      "cons_no": 2,
+      "prov_id": "SNI",
+      "zone": [
+        "อำเภอกาญจนดิษฐ์ (เฉพาะท่าทอง พลายวาส ท่าอุแท คลองสระ)",
+        "อำเภอดอนสัก",
+        "อำเภอเกาะพะงัน",
+        "อำเภอเกาะสมุย"
+      ],
+      "total_vote_stations": 214,
+      "registered_vote": 119683
+    },
+    {
+      "cons_id": "SNI_3",
+      "cons_no": 3,
+      "prov_id": "SNI",
+      "zone": [
+        "อำเภอบ้านนาสาร (ยกเว้นทุ่งเตา ทุ่งเตาใหม่)",
+        "อำเภอเคียนซา (ยกเว้นบ้านเสด็จ)",
+        "อำเภอเวียงสระ"
+      ],
+      "total_vote_stations": 228,
+      "registered_vote": 120055
+    },
+    {
+      "cons_id": "SNI_4",
+      "cons_no": 4,
+      "prov_id": "SNI",
+      "zone": [
+        "อำเภอคีรีรัฐนิคม",
+        "อำเภอบ้านตาขุน",
+        "อำเภอพุนพิน"
+      ],
+      "total_vote_stations": 236,
+      "registered_vote": 123380
+    },
+    {
+      "cons_id": "SNI_5",
+      "cons_no": 5,
+      "prov_id": "SNI",
+      "zone": [
+        "อำเภอพนม",
+        "อำเภอพระแสง",
+        "อำเภอชัยบุรี",
+        "อำเภอเคียนซา (เฉพาะบ้านเสด็จ)"
+      ],
+      "total_vote_stations": 225,
+      "registered_vote": 121866
+    },
+    {
+      "cons_id": "SNI_6",
+      "cons_no": 6,
+      "prov_id": "SNI",
+      "zone": [
+        "อำเภอไชยา",
+        "อำเภอท่าชนะ",
+        "อำเภอท่าฉาง",
+        "อำเภอวิภาวดี"
+      ],
+      "total_vote_stations": 247,
+      "registered_vote": 125055
+    },
+    {
+      "cons_id": "SNI_7",
+      "cons_no": 7,
+      "prov_id": "SNI",
+      "zone": [
+        "อำเภอกาญจนดิษฐ์ (ยกเว้นท่าทอง พลายวาส ท่าอุแท คลองสระ)",
+        "อำเภอบ้านนาสาร (เฉพาะทุ่งเตา ทุ่งเตาใหม่)",
+        "อำเภอบ้านนาเดิม",
+        "อำเภอเมืองสุราษฎร์ธานี (เฉพาะขุนทะเล วัดประดู่)"
+      ],
+      "total_vote_stations": 202,
+      "registered_vote": 120277
+    },
+    {
+      "cons_id": "RNG_1",
+      "cons_no": 1,
+      "prov_id": "RNG",
+      "zone": [
+        "อำเภอเมืองระนอง",
+        "อำเภอละอุ่น",
+        "อำเภอกะเปอร์",
+        "อำเภอกระบุรี",
+        "อำเภอสุขสำราญ"
+      ],
+      "total_vote_stations": 246,
+      "registered_vote": 143314
+    },
+    {
+      "cons_id": "CPN_1",
+      "cons_no": 1,
+      "prov_id": "CPN",
+      "zone": [
+        "อำเภอเมืองชุมพร (ยกเว้นบางลึก หาดพันไกร วังใหม่ บ้านนา ถ้ำสิงห์)",
+        "อำเภอสวี (ยกเว้นเขาทะลุ เขาค่าย)"
+      ],
+      "total_vote_stations": 263,
+      "registered_vote": 137056
+    },
+    {
+      "cons_id": "CPN_2",
+      "cons_no": 2,
+      "prov_id": "CPN",
+      "zone": [
+        "อำเภอเมืองชุมพร (เฉพาะบางลึก หาดพันไกร วังใหม่ บ้านนา ถ้ำสิงห์)",
+        "อำเภอท่าแซะ",
+        "อำเภอปะทิว"
+      ],
+      "total_vote_stations": 273,
+      "registered_vote": 136820
+    },
+    {
+      "cons_id": "CPN_3",
+      "cons_no": 3,
+      "prov_id": "CPN",
+      "zone": [
+        "อำเภอหลังสวน",
+        "อำเภอละแม",
+        "อำเภอพะโต๊ะ",
+        "อำเภอสวี (เฉพาะเขาทะลุ เขาค่าย)",
+        "อำเภอทุ่งตะโก"
+      ],
+      "total_vote_stations": 287,
+      "registered_vote": 135755
+    },
+    {
+      "cons_id": "SKA_1",
+      "cons_no": 1,
+      "prov_id": "SKA",
+      "zone": [
+        "อำเภอเมืองสงขลา"
+      ],
+      "total_vote_stations": 201,
+      "registered_vote": 128331
+    },
+    {
+      "cons_id": "SKA_2",
+      "cons_no": 2,
+      "prov_id": "SKA",
+      "zone": [
+        "อำเภอหาดใหญ่ (เฉพาะคลองอู่ตะเภา หาดใหญ่)"
+      ],
+      "total_vote_stations": 179,
+      "registered_vote": 108657
+    },
+    {
+      "cons_id": "SKA_3",
+      "cons_no": 3,
+      "prov_id": "SKA",
+      "zone": [
+        "อำเภอจะนะ (เฉพาะจะโหนง คลองเปียะ)",
+        "อำเภอหาดใหญ่ (เฉพาะทุ่งใหญ่ ท่าข้าม พะตง น้ำน้อย บ้านพรุ คอหงส์)",
+        "อำเภอนาหม่อม"
+      ],
+      "total_vote_stations": 213,
+      "registered_vote": 133721
+    },
+    {
+      "cons_id": "SKA_4",
+      "cons_no": 4,
+      "prov_id": "SKA",
+      "zone": [
+        "อำเภอสทิงพระ",
+        "อำเภอระโนด",
+        "อำเภอกระแสสินธุ์",
+        "อำเภอสิงหนคร (เฉพาะรำแดง วัดขนุน ชะแล้ บางเขียด ม่วงงาม)"
+      ],
+      "total_vote_stations": 249,
+      "registered_vote": 126692
+    },
+    {
+      "cons_id": "SKA_5",
+      "cons_no": 5,
+      "prov_id": "SKA",
+      "zone": [
+        "อำเภอรัตภูมิ",
+        "อำเภอควนเนียง",
+        "อำเภอสิงหนคร (ยกเว้นรำแดง วัดขนุน ชะแล้ บางเขียด ม่วงงาม)"
+      ],
+      "total_vote_stations": 234,
+      "registered_vote": 129751
+    },
+    {
+      "cons_id": "SKA_6",
+      "cons_no": 6,
+      "prov_id": "SKA",
+      "zone": [
+        "อำเภอสะเดา",
+        "อำเภอคลองหอยโข่ง"
+      ],
+      "total_vote_stations": 191,
+      "registered_vote": 116166
+    },
+    {
+      "cons_id": "SKA_7",
+      "cons_no": 7,
+      "prov_id": "SKA",
+      "zone": [
+        "อำเภอนาทวี",
+        "อำเภอสะบ้าย้อย",
+        "อำเภอเทพา (เฉพาะลำไพล)"
+      ],
+      "total_vote_stations": 234,
+      "registered_vote": 123182
+    },
+    {
+      "cons_id": "SKA_8",
+      "cons_no": 8,
+      "prov_id": "SKA",
+      "zone": [
+        "อำเภอจะนะ (ยกเว้นจะโหนง คลองเปียะ)",
+        "อำเภอเทพา (ยกเว้นลำไพล)"
+      ],
+      "total_vote_stations": 236,
+      "registered_vote": 120448
+    },
+    {
+      "cons_id": "SKA_9",
+      "cons_no": 9,
+      "prov_id": "SKA",
+      "zone": [
+        "อำเภอหาดใหญ่ (เฉพาะฉลุง ทุ่งตำเสา คูเต่า คลองแห ควนลัง)",
+        "อำเภอบางกล่ำ"
+      ],
+      "total_vote_stations": 206,
+      "registered_vote": 135999
+    },
+    {
+      "cons_id": "STN_1",
+      "cons_no": 1,
+      "prov_id": "STN",
+      "zone": [
+        "อำเภอเมืองสตูล",
+        "อำเภอควนโดน",
+        "อำเภอควนกาหลง (เฉพาะทุ่งนุ้ย)"
+      ],
+      "total_vote_stations": 202,
+      "registered_vote": 116873
+    },
+    {
+      "cons_id": "STN_2",
+      "cons_no": 2,
+      "prov_id": "STN",
+      "zone": [
+        "อำเภอควนกาหลง (ยกเว้นทุ่งนุ้ย)",
+        "อำเภอท่าแพ",
+        "อำเภอละงู",
+        "อำเภอทุ่งหว้า",
+        "อำเภอมะนัง"
+      ],
+      "total_vote_stations": 234,
+      "registered_vote": 129553
+    },
+    {
+      "cons_id": "TRG_1",
+      "cons_no": 1,
+      "prov_id": "TRG",
+      "zone": [
+        "อำเภอเมืองตรัง"
+      ],
+      "total_vote_stations": 229,
+      "registered_vote": 124216
+    },
+    {
+      "cons_id": "TRG_2",
+      "cons_no": 2,
+      "prov_id": "TRG",
+      "zone": [
+        "อำเภอห้วยยอด",
+        "อำเภอวังวิเศษ",
+        "อำเภอรัษฎา"
+      ],
+      "total_vote_stations": 274,
+      "registered_vote": 132487
+    },
+    {
+      "cons_id": "TRG_3",
+      "cons_no": 3,
+      "prov_id": "TRG",
+      "zone": [
+        "อำเภอย่านตาขาว (ยกเว้นย่านตาขาว ทุ่งกระบือ ทุ่งค่าย เกาะเปียะ)",
+        "อำเภอปะเหลียน",
+        "อำเภอนาโยง",
+        "อำเภอหาดสำราญ"
+      ],
+      "total_vote_stations": 226,
+      "registered_vote": 125342
+    },
+    {
+      "cons_id": "TRG_4",
+      "cons_no": 4,
+      "prov_id": "TRG",
+      "zone": [
+        "อำเภอกันตัง",
+        "อำเภอย่านตาขาว (ยกเว้นหนองบ่อ นาชุมเห็ด ในควน โพรงจระเข้)",
+        "อำเภอสิเกา"
+      ],
+      "total_vote_stations": 214,
+      "registered_vote": 128358
+    },
+    {
+      "cons_id": "PLG_1",
+      "cons_no": 1,
+      "prov_id": "PLG",
+      "zone": [
+        "อำเภอเมืองพัทลุง",
+        "อำเภอเขาชัยสน"
+      ],
+      "total_vote_stations": 262,
+      "registered_vote": 134471
+    },
+    {
+      "cons_id": "PLG_2",
+      "cons_no": 2,
+      "prov_id": "PLG",
+      "zone": [
+        "อำเภอกงหรา (เฉพาะสมหวัง ชะรัด)",
+        "อำเภอควนขนุน",
+        "อำเภอศรีบรรพต",
+        "อำเภอป่าพะยอม",
+        "อำเภอศรีนครินทร์"
+      ],
+      "total_vote_stations": 281,
+      "registered_vote": 144593
+    },
+    {
+      "cons_id": "PLG_3",
+      "cons_no": 3,
+      "prov_id": "PLG",
+      "zone": [
+        "อำเภอกงหรา (ยกเว้นสมหวัง ชะรัด)",
+        "อำเภอตะโหมด",
+        "อำเภอปากพะยูน",
+        "อำเภอป่าบอน",
+        "อำเภอบางแก้ว"
+      ],
+      "total_vote_stations": 263,
+      "registered_vote": 143629
+    },
+    {
+      "cons_id": "PTN_3",
+      "cons_no": 3,
+      "prov_id": "PTN",
+      "zone": [
+        "อำเภอทุ่งยางแดง",
+        "อำเภอยะรัง",
+        "อำเภอแม่ลาน"
+      ],
+      "total_vote_stations": 173,
+      "registered_vote": 99188
+    },
+    {
+      "cons_id": "PTN_4",
+      "cons_no": 4,
+      "prov_id": "PTN",
+      "zone": [
+        "อำเภอปะนาเระ",
+        "อำเภอสายบุรี",
+        "อำเภอไม้แก่น",
+        "อำเภอกะพ้อ"
+      ],
+      "total_vote_stations": 224,
+      "registered_vote": 110256
+    },
+    {
+      "cons_id": "PTN_5",
+      "cons_no": 5,
+      "prov_id": "PTN",
+      "zone": [
+        "อำเภอมายอ",
+        "อำเภอยะหริ่ง"
+      ],
+      "total_vote_stations": 211,
+      "registered_vote": 109944
+    },
+    {
+      "cons_id": "YLA_1",
+      "cons_no": 1,
+      "prov_id": "YLA",
+      "zone": [
+        "อำเภอเมืองยะลา (ยกเว้นบุดี เปาะเส้ง บันนังสาเรง)",
+        "อำเภอยะหา (เฉพาะยะหา ตาชี บาโงยซิแน)"
+      ],
+      "total_vote_stations": 221,
+      "registered_vote": 130145
+    },
+    {
+      "cons_id": "YLA_2",
+      "cons_no": 2,
+      "prov_id": "YLA",
+      "zone": [
+        "อำเภอเมืองยะลา (เฉพาะบุดี เปาะเส้ง บันนังสาเรง)",
+        "อำเภอยะหา (ยกเว้นยะหา ตาชี บาโงยซิแน)",
+        "อำเภอรามัน",
+        "อำเภอกาบัง"
+      ],
+      "total_vote_stations": 240,
+      "registered_vote": 134276
+    },
+    {
+      "cons_id": "YLA_3",
+      "cons_no": 3,
+      "prov_id": "YLA",
+      "zone": [
+        "อำเภอเบตง",
+        "อำเภอบันนังสตา",
+        "อำเภอธารโต",
+        "อำเภอกรงปินัง"
+      ],
+      "total_vote_stations": 247,
+      "registered_vote": 131444
+    },
+    {
+      "cons_id": "NWT_1",
+      "cons_no": 1,
+      "prov_id": "NWT",
+      "zone": [
+        "อำเภอเมืองนราธิวาส",
+        "อำเภอยี่งอ"
+      ],
+      "total_vote_stations": 228,
+      "registered_vote": 129176
+    },
+    {
+      "cons_id": "NWT_2",
+      "cons_no": 2,
+      "prov_id": "NWT",
+      "zone": [
+        "อำเภอตากใบ",
+        "อำเภอสุไหงโกลก"
+      ],
+      "total_vote_stations": 201,
+      "registered_vote": 113221
+    },
+    {
+      "cons_id": "NWT_3",
+      "cons_no": 3,
+      "prov_id": "NWT",
+      "zone": [
+        "อำเภอแว้ง",
+        "อำเภอสุไหงปาดี",
+        "อำเภอเจาะไอร้อง"
+      ],
+      "total_vote_stations": 207,
+      "registered_vote": 112323
+    },
+    {
+      "cons_id": "NWT_4",
+      "cons_no": 4,
+      "prov_id": "NWT",
+      "zone": [
+        "อำเภอระแงะ",
+        "อำเภอสุคิริน",
+        "อำเภอจะแนะ"
+      ],
+      "total_vote_stations": 217,
+      "registered_vote": 116961
+    },
+    {
+      "cons_id": "NWT_5",
+      "cons_no": 5,
+      "prov_id": "NWT",
+      "zone": [
+        "อำเภอบาเจาะ",
+        "อำเภอรือเสาะ",
+        "อำเภอศรีสาคร"
+      ],
+      "total_vote_stations": 233,
+      "registered_vote": 125363
+    }
+  ]
