@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import requests
 import plotly.express as px
 import numpy as np
 
@@ -547,6 +546,7 @@ st.markdown("""
 """)
 
 st.divider()
+
 
 
 
