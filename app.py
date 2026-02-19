@@ -121,10 +121,23 @@ df_cons_candidate = df_cons_candidate.merge(
 )
 
 # ---------- Join party name ----------
+# บังคับให้ party_id เป็น string ทั้งสองฝั่ง
+df_cons_candidate["party_id"] = df_cons_candidate["party_id"].astype(str)
+
+# หา column party id ของ df_party แบบ dynamic
+party_id_col = None
+for col in df_party.columns:
+    if "id" in col.lower():
+        party_id_col = col
+        break
+
+df_party[party_id_col] = df_party[party_id_col].astype(str)
+
+# merge
 df_cons_candidate = df_cons_candidate.merge(
     df_party,
     left_on="party_id",
-    right_on="id",
+    right_on=party_id_col,
     how="left"
 )
 
@@ -284,6 +297,7 @@ st.markdown("""
 - 🔼 ENP สูง + 🔼 Margin สูง → หลายพรรคลงแข่ง แต่มีพรรคเด่น  
 - 🔽 ENP ต่ำ + 🔽 Margin ต่ำ → แข่งหลัก ๆ 2 พรรค สูสี
 """)
+
 
 
 
